@@ -1,0 +1,2590 @@
+,index,# Reactions,Final Countries,Income Level,Continents
+0,0,344,Australia,High income,Oceania
+1,1,1280,United States,High income,North America
+2,2,1545,Netherlands,High income,Europe
+3,3,1579,France,High income,Europe
+4,6,4923,United States,High income,North America
+5,8,558,United States,High income,North America
+6,9,293,Iraq,Upper middle income,Asia
+7,10,4818,United States,High income,North America
+8,12,787,United States,High income,North America
+9,14,1029,United States,High income,North America
+10,15,1209,Brazil,Upper middle income,South America
+11,16,635,Brazil,Upper middle income,South America
+12,17,1146,Brazil,Upper middle income,South America
+13,18,1443,Brazil,Upper middle income,South America
+14,19,4230,United States,High income,North America
+15,20,938,United States,High income,North America
+16,21,1382,United States,High income,North America
+17,22,1037,Haiti,Lower middle income,North America
+18,23,714,Haiti,Lower middle income,North America
+19,24,2974,Haiti,Lower middle income,North America
+20,25,2446,Haiti,Lower middle income,North America
+21,26,511,Philippines,Lower middle income,Asia
+22,27,940,Dominican Republic,Upper middle income,North America
+23,28,1081,Dominican Republic,Upper middle income,North America
+24,29,926,Canada,High income,North America
+25,30,558,Canada,High income,North America
+26,31,661,Canada,High income,North America
+27,33,737,Afghanistan,Low income,Asia
+28,34,1455,Afghanistan,Low income,Asia
+29,35,802,United States,High income,North America
+30,36,526,United States,High income,North America
+31,37,1307,United States,High income,North America
+32,38,2064,United States,High income,North America
+33,39,3064,United States,High income,North America
+34,40,2745,United States,High income,North America
+35,41,2350,United States,High income,North America
+36,42,1225,United States,High income,North America
+37,44,849,United States,High income,North America
+38,45,381,United States,High income,North America
+39,46,6016,United States,High income,North America
+40,47,3193,United States,High income,North America
+41,48,1455,Georgia,Upper middle income,Asia
+42,49,506,Georgia,Upper middle income,Asia
+43,50,818,Haiti,Lower middle income,North America
+44,52,1696,United States,High income,North America
+45,53,1560,United States,High income,North America
+46,54,594,United States,High income,North America
+47,55,635,Italy,High income,Europe
+48,56,887,United States,High income,North America
+49,57,1487,United States,High income,North America
+50,58,620,United States,High income,North America
+51,59,487,United States,High income,North America
+52,60,509,United States,High income,North America
+53,61,8979,United States,High income,North America
+54,62,572,United Kingdom,High income,Europe
+55,63,481,United Kingdom,High income,Europe
+56,65,3280,United States,High income,North America
+57,66,2182,United States,High income,North America
+58,67,624,United States,High income,North America
+59,68,3463,United States,High income,North America
+60,69,40754,United States,High income,North America
+61,71,2148,New Zealand,High income,Oceania
+62,72,604,Italy,High income,Europe
+63,73,3177,United States,High income,North America
+64,74,3266,United States,High income,North America
+65,76,2955,United States,High income,North America
+66,77,529,United States,High income,North America
+67,78,323,United States,High income,North America
+68,79,720,United States,High income,North America
+69,80,411,Lebanon,Upper middle income,Asia
+70,81,912,Lebanon,Upper middle income,Asia
+71,82,1589,Lebanon,Upper middle income,Asia
+72,83,855,United States,High income,North America
+73,84,342,United States,High income,North America
+74,85,1095,United States,High income,North America
+75,89,5309,Georgia,Upper middle income,Asia
+76,90,2479,Georgia,Upper middle income,Asia
+77,91,2112,Georgia,Upper middle income,Asia
+78,92,1608,United States,High income,North America
+79,93,3077,United States,High income,North America
+80,94,868,United States,High income,North America
+81,95,628,United States,High income,North America
+82,97,726,United Kingdom,High income,Europe
+83,98,1606,United Kingdom,High income,Europe
+84,99,985,United Kingdom,High income,Europe
+85,100,685,United Kingdom,High income,Europe
+86,102,606,United States,High income,North America
+87,103,1083,United States,High income,North America
+88,104,1149,United States,High income,North America
+89,105,498,United States,High income,North America
+90,106,2261,United States,High income,North America
+91,107,2304,United States,High income,North America
+92,109,477,France,High income,Europe
+93,110,1432,France,High income,Europe
+94,111,309,Netherlands,High income,Europe
+95,112,542,India,Lower middle income,Asia
+96,113,2833,India,Lower middle income,Asia
+97,114,1279,India,Lower middle income,Asia
+98,115,566,India,Lower middle income,Asia
+99,116,778,India,Lower middle income,Asia
+100,117,759,India,Lower middle income,Asia
+101,119,1449,Ukraine,Lower middle income,Europe
+102,120,992,Ukraine,Lower middle income,Europe
+103,122,1372,Ukraine,Lower middle income,Europe
+104,123,1116,United States,High income,North America
+105,124,1715,United States,High income,North America
+106,125,1517,United States,High income,North America
+107,126,1848,United States,High income,North America
+108,129,451,China,Upper middle income,Asia
+109,130,947,China,Upper middle income,Asia
+110,133,3221,United States,High income,North America
+111,134,1632,Myanmar,Lower middle income,Asia
+112,135,3266,United States,High income,North America
+113,136,2344,United States,High income,North America
+114,137,96,Georgia,Upper middle income,Asia
+115,139,1782,United States,High income,North America
+116,140,2174,United States,High income,North America
+117,141,2944,United States,High income,North America
+118,142,930,United States,High income,North America
+119,143,1617,United States,High income,North America
+120,144,16535,United States,High income,North America
+121,145,598,United States,High income,North America
+122,146,1953,United States,High income,North America
+123,147,620,United States,High income,North America
+124,148,434,United States,High income,North America
+125,149,2514,United States,High income,North America
+126,150,965,United States,High income,North America
+127,151,5238,United States,High income,North America
+128,152,1590,United States,High income,North America
+129,153,645,United States,High income,North America
+130,154,8031,United States,High income,North America
+131,155,658,United States,High income,North America
+132,156,1473,United States,High income,North America
+133,157,576,United States,High income,North America
+134,158,1685,United States,High income,North America
+135,159,4469,United States,High income,North America
+136,160,3310,United States,High income,North America
+137,161,4325,United States,High income,North America
+138,162,619,United States,High income,North America
+139,165,772,China,Upper middle income,Asia
+140,166,1134,United States,High income,North America
+141,167,701,United States,High income,North America
+142,168,940,United States,High income,North America
+143,169,545,United States,High income,North America
+144,170,1554,United States,High income,North America
+145,172,3829,Germany,High income,Europe
+146,173,510,Germany,High income,Europe
+147,174,1098,United States,High income,North America
+148,175,2252,United States,High income,North America
+149,176,971,United States,High income,North America
+150,177,1939,United States,High income,North America
+151,178,979,United States,High income,North America
+152,179,4051,Georgia,Upper middle income,Asia
+153,180,3102,China,Upper middle income,Asia
+154,181,2688,United States,High income,North America
+155,182,3767,United States,High income,North America
+156,184,1107,United States,High income,North America
+157,185,541,United States,High income,North America
+158,187,914,Germany,High income,Europe
+159,188,2162,United States,High income,North America
+160,189,1396,United States,High income,North America
+161,190,3773,United States,High income,North America
+162,191,1110,United States,High income,North America
+163,192,1074,United States,High income,North America
+164,194,1206,United States,High income,North America
+165,195,1662,United States,High income,North America
+166,196,869,United States,High income,North America
+167,197,4390,United States,High income,North America
+168,198,1257,United States,High income,North America
+169,199,319,United States,High income,North America
+170,200,3045,United States,High income,North America
+171,201,892,United States,High income,North America
+172,202,1633,United States,High income,North America
+173,203,2330,United States,High income,North America
+174,204,395,Thailand,Upper middle income,Asia
+175,205,1567,United States,High income,North America
+176,209,1519,Peru,Upper middle income,South America
+177,210,729,Peru,Upper middle income,South America
+178,211,1857,United Kingdom,High income,Europe
+179,212,3817,United States,High income,North America
+180,213,987,United States,High income,North America
+181,214,1177,United States,High income,North America
+182,215,1128,United States,High income,North America
+183,218,624,South Africa,Aggregates,Africa
+184,219,2552,Belgium,High income,Europe
+185,220,1490,Belgium,High income,Europe
+186,221,1494,Belgium,High income,Europe
+187,222,1200,Canada,High income,North America
+188,225,663,France,High income,Europe
+189,226,1411,France,High income,Europe
+190,227,2171,United States,High income,North America
+191,228,1667,United States,High income,North America
+192,229,1179,United States,High income,North America
+193,230,1428,United States,High income,North America
+194,231,1284,United States,High income,North America
+195,232,402,United States,High income,North America
+196,234,1172,United States,High income,North America
+197,235,3224,United States,High income,North America
+198,236,2286,Georgia,Upper middle income,Asia
+199,237,3380,United States,High income,North America
+200,238,1213,United States,High income,North America
+201,239,3614,United States,High income,North America
+202,240,764,United States,High income,North America
+203,241,1716,United States,High income,North America
+204,242,1318,United States,High income,North America
+205,243,671,United States,High income,North America
+206,244,1762,United States,High income,North America
+207,245,1500,United States,High income,North America
+208,246,4525,United States,High income,North America
+209,247,1799,United States,High income,North America
+210,248,2014,United States,High income,North America
+211,249,565,Haiti,Lower middle income,North America
+212,250,8679,United States,High income,North America
+213,251,652,United States,High income,North America
+214,252,237,Israel,High income,Asia
+215,253,2153,United States,High income,North America
+216,254,1320,United States,High income,North America
+217,255,1176,United States,High income,North America
+218,256,1069,United States,High income,North America
+219,257,382,Sudan,Low income,Africa
+220,258,4175,United States,High income,North America
+221,259,701,Thailand,Upper middle income,Asia
+222,260,652,Israel,High income,Asia
+223,261,372,United States,High income,North America
+224,262,427,United States,High income,North America
+225,263,1489,United States,High income,North America
+226,264,2059,France,High income,Europe
+227,265,9318,United States,High income,North America
+228,266,411,United States,High income,North America
+229,267,976,Brazil,Upper middle income,South America
+230,268,2699,United States,High income,North America
+231,269,962,United States,High income,North America
+232,270,10765,United States,High income,North America
+233,271,527,United States,High income,North America
+234,272,2966,United States,High income,North America
+235,273,9223,United States,High income,North America
+236,274,23704,United States,High income,North America
+237,276,1763,United States,High income,North America
+238,277,2466,Brazil,Upper middle income,South America
+239,278,1636,Austria,High income,Europe
+240,280,926,Austria,High income,Europe
+241,281,363,Austria,High income,Europe
+242,282,932,Austria,High income,Europe
+243,283,5229,United States,High income,North America
+244,284,1017,United States,High income,North America
+245,285,395,United States,High income,North America
+246,286,523,United States,High income,North America
+247,287,937,United States,High income,North America
+248,290,959,United States,High income,North America
+249,292,7961,United States,High income,North America
+250,293,457,United States,High income,North America
+251,294,1331,United States,High income,North America
+252,295,810,United States,High income,North America
+253,296,2091,United States,High income,North America
+254,297,629,United States,High income,North America
+255,299,889,United States,High income,North America
+256,301,786,United States,High income,North America
+257,303,1627,United States,High income,North America
+258,304,1486,Uganda,Low income,Africa
+259,305,664,Georgia,Upper middle income,Asia
+260,306,503,Georgia,Upper middle income,Asia
+261,307,888,Georgia,Upper middle income,Asia
+262,308,984,Canada,High income,North America
+263,310,2443,United States,High income,North America
+264,311,1546,United States,High income,North America
+265,312,3758,United States,High income,North America
+266,313,630,United States,High income,North America
+267,315,769,United States,High income,North America
+268,316,1985,United States,High income,North America
+269,317,8059,United States,High income,North America
+270,318,797,United Kingdom,High income,Europe
+271,319,1600,United States,High income,North America
+272,320,1720,United States,High income,North America
+273,321,1744,United States,High income,North America
+274,322,937,United Kingdom,High income,Europe
+275,323,2777,United Kingdom,High income,Europe
+276,324,594,United Kingdom,High income,Europe
+277,325,126,Iran,Lower middle income,Asia
+278,326,906,Iran,Lower middle income,Asia
+279,329,1087,United States,High income,North America
+280,330,612,Ecuador,Upper middle income,South America
+281,331,514,United Kingdom,High income,Europe
+282,334,741,United Kingdom,High income,Europe
+283,336,884,United States,High income,North America
+284,337,534,United States,High income,North America
+285,338,3330,United States,High income,North America
+286,339,1023,United States,High income,North America
+287,340,2929,United States,High income,North America
+288,341,2779,United States,High income,North America
+289,342,1176,Japan,High income,Asia
+290,343,1045,Japan,High income,Asia
+291,344,450,Afghanistan,Low income,Asia
+292,345,690,Afghanistan,Low income,Asia
+293,346,611,China,Upper middle income,Asia
+294,347,3144,China,Upper middle income,Asia
+295,348,686,China,Upper middle income,Asia
+296,349,2301,China,Upper middle income,Asia
+297,350,1585,China,Upper middle income,Asia
+298,351,1015,China,Upper middle income,Asia
+299,352,973,China,Upper middle income,Asia
+300,353,723,China,Upper middle income,Asia
+301,354,4580,United States,High income,North America
+302,355,587,United States,High income,North America
+303,356,2057,United States,High income,North America
+304,357,1849,United States,High income,North America
+305,358,2188,United States,High income,North America
+306,359,807,United States,High income,North America
+307,360,1228,United States,High income,North America
+308,361,1227,United States,High income,North America
+309,362,1312,United States,High income,North America
+310,364,703,Ukraine,Lower middle income,Europe
+311,365,828,United States,High income,North America
+312,366,8137,United States,High income,North America
+313,368,424,United States,High income,North America
+314,369,5539,United States,High income,North America
+315,370,889,United States,High income,North America
+316,371,6510,United States,High income,North America
+317,373,3471,United States,High income,North America
+318,374,1653,United States,High income,North America
+319,375,689,United States,High income,North America
+320,376,872,United States,High income,North America
+321,377,3302,United States,High income,North America
+322,378,1663,United States,High income,North America
+323,379,1228,United States,High income,North America
+324,380,707,United States,High income,North America
+325,381,2174,United States,High income,North America
+326,382,808,United States,High income,North America
+327,383,3237,United States,High income,North America
+328,384,1466,United States,High income,North America
+329,385,1949,United States,High income,North America
+330,386,805,United States,High income,North America
+331,387,737,United States,High income,North America
+332,388,3261,United States,High income,North America
+333,389,2454,United States,High income,North America
+334,390,1107,United States,High income,North America
+335,391,10584,United States,High income,North America
+336,392,1520,United States,High income,North America
+337,394,1280,Kenya,Lower middle income,Africa
+338,395,226,Iraq,Upper middle income,Asia
+339,396,1697,Iraq,Upper middle income,Asia
+340,397,10102,Iraq,Upper middle income,Asia
+341,398,1435,United States,High income,North America
+342,399,857,United States,High income,North America
+343,400,2220,United States,High income,North America
+344,401,5154,United States,High income,North America
+345,402,1522,United States,High income,North America
+346,403,630,United States,High income,North America
+347,405,704,United States,High income,North America
+348,406,1326,United States,High income,North America
+349,407,2833,United States,High income,North America
+350,408,863,United States,High income,North America
+351,409,1035,United States,High income,North America
+352,410,863,Mexico,Upper middle income,North America
+353,411,2247,United States,High income,North America
+354,412,14497,United States,High income,North America
+355,413,985,Georgia,Upper middle income,Asia
+356,414,822,Russia,Upper middle income,Europe
+357,415,1354,United States,High income,North America
+358,416,1971,United States,High income,North America
+359,417,2196,United States,High income,North America
+360,418,802,Australia,High income,Oceania
+361,419,593,Australia,High income,Oceania
+362,420,258,United States,High income,North America
+363,421,79,United States,High income,North America
+364,422,2650,United States,High income,North America
+365,423,593,United States,High income,North America
+366,424,1346,United States,High income,North America
+367,425,1131,United States,High income,North America
+368,426,811,United States,High income,North America
+369,427,2031,United States,High income,North America
+370,428,402,United States,High income,North America
+371,429,505,United States,High income,North America
+372,431,60,United States,High income,North America
+373,432,171,United States,High income,North America
+374,433,1522,United States,High income,North America
+375,435,4602,United States,High income,North America
+376,436,87,United States,High income,North America
+377,437,3299,United States,High income,North America
+378,441,3394,United States,High income,North America
+379,442,489,United States,High income,North America
+380,443,1113,United States,High income,North America
+381,444,1954,China,Upper middle income,Asia
+382,445,424,Afghanistan,Low income,Asia
+383,446,1014,United Kingdom,High income,Europe
+384,448,732,Nigeria,Lower middle income,Africa
+385,449,785,United Kingdom,High income,Europe
+386,450,1500,United States,High income,North America
+387,451,919,United States,High income,North America
+388,452,1423,United States,High income,North America
+389,453,423,United Kingdom,High income,Europe
+390,454,2769,United Kingdom,High income,Europe
+391,455,854,Japan,High income,Asia
+392,456,654,Japan,High income,Asia
+393,458,1112,Japan,High income,Asia
+394,459,3438,Japan,High income,Asia
+395,460,1607,Japan,High income,Asia
+396,461,1447,Japan,High income,Asia
+397,463,459,United States,High income,North America
+398,464,906,United States,High income,North America
+399,465,893,Sudan,Low income,Africa
+400,466,1007,Italy,High income,Europe
+401,467,1883,United States,High income,North America
+402,468,2606,United States,High income,North America
+403,469,836,United States,High income,North America
+404,470,1996,United States,High income,North America
+405,472,1701,United States,High income,North America
+406,473,1566,United States,High income,North America
+407,474,458,United States,High income,North America
+408,475,2519,United States,High income,North America
+409,476,1148,United States,High income,North America
+410,478,441,United States,High income,North America
+411,479,594,United States,High income,North America
+412,480,960,United States,High income,North America
+413,481,1867,United States,High income,North America
+414,482,423,United States,High income,North America
+415,484,988,United States,High income,North America
+416,485,901,United States,High income,North America
+417,486,1311,United States,High income,North America
+418,487,885,United States,High income,North America
+419,488,1158,United States,High income,North America
+420,490,1184,United States,High income,North America
+421,491,559,Iran,Lower middle income,Asia
+422,494,1072,Iran,Lower middle income,Asia
+423,495,2071,United States,High income,North America
+424,496,733,Georgia,Upper middle income,Asia
+425,498,15204,Georgia,Upper middle income,Asia
+426,499,1208,Georgia,Upper middle income,Asia
+427,500,862,Georgia,Upper middle income,Asia
+428,501,1641,Georgia,Upper middle income,Asia
+429,502,2294,United States,High income,North America
+430,503,1333,United States,High income,North America
+431,504,555,United States,High income,North America
+432,505,654,United States,High income,North America
+433,506,4165,United States,High income,North America
+434,507,1100,United States,High income,North America
+435,508,685,United States,High income,North America
+436,512,1715,United States,High income,North America
+437,513,903,Sudan,Low income,Africa
+438,514,823,Sudan,Low income,Africa
+439,515,5340,Sudan,Low income,Africa
+440,516,1753,United States,High income,North America
+441,517,1730,United States,High income,North America
+442,518,1311,United States,High income,North America
+443,519,781,United States,High income,North America
+444,520,825,United States,High income,North America
+445,521,1647,United States,High income,North America
+446,522,3147,United States,High income,North America
+447,523,976,United States,High income,North America
+448,525,633,United States,High income,North America
+449,527,684,United States,High income,North America
+450,528,2916,United States,High income,North America
+451,529,830,Brazil,Upper middle income,South America
+452,530,1266,Brazil,Upper middle income,South America
+453,531,7201,United States,High income,North America
+454,532,612,Brazil,Upper middle income,South America
+455,533,3775,United States,High income,North America
+456,534,462,United States,High income,North America
+457,535,484,United States,High income,North America
+458,536,676,United Kingdom,High income,Europe
+459,537,628,China,Upper middle income,Asia
+460,538,531,China,Upper middle income,Asia
+461,540,1232,Brazil,Upper middle income,South America
+462,542,2197,United States,High income,North America
+463,543,1091,United States,High income,North America
+464,544,837,United States,High income,North America
+465,545,2858,United States,High income,North America
+466,546,1522,United States,High income,North America
+467,547,1923,United Kingdom,High income,Europe
+468,548,105,United States,High income,North America
+469,549,3331,United States,High income,North America
+470,550,1219,United States,High income,North America
+471,551,779,United States,High income,North America
+472,552,269,United States,High income,North America
+473,553,999,United States,High income,North America
+474,554,1483,United States,High income,North America
+475,555,579,United States,High income,North America
+476,556,808,United States,High income,North America
+477,560,445,Afghanistan,Low income,Asia
+478,561,675,United States,High income,North America
+479,562,19168,United States,High income,North America
+480,563,2685,United States,High income,North America
+481,564,2032,United States,High income,North America
+482,565,412,United Kingdom,High income,Europe
+483,566,2180,United States,High income,North America
+484,567,755,United States,High income,North America
+485,568,1450,United States,High income,North America
+486,569,1444,United States,High income,North America
+487,570,1713,Haiti,Lower middle income,North America
+488,571,1049,United States,High income,North America
+489,573,1001,United States,High income,North America
+490,574,776,United States,High income,North America
+491,575,1065,United States,High income,North America
+492,576,982,United States,High income,North America
+493,577,505,United States,High income,North America
+494,578,1253,United States,High income,North America
+495,579,822,United States,High income,North America
+496,580,1043,United States,High income,North America
+497,581,1113,United States,High income,North America
+498,583,603,China,Upper middle income,Asia
+499,584,1160,China,Upper middle income,Asia
+500,585,614,United Kingdom,High income,Europe
+501,586,3696,United Kingdom,High income,Europe
+502,587,1637,United States,High income,North America
+503,588,287,United States,High income,North America
+504,590,765,United States,High income,North America
+505,591,404,China,Upper middle income,Asia
+506,592,969,United States,High income,North America
+507,593,1078,United States,High income,North America
+508,594,427,United States,High income,North America
+509,596,620,United States,High income,North America
+510,597,1813,United Kingdom,High income,Europe
+511,598,307,United Kingdom,High income,Europe
+512,599,2099,United States,High income,North America
+513,600,335,Norway,High income,Europe
+514,601,354,Norway,High income,Europe
+515,602,498,Afghanistan,Low income,Asia
+516,604,1812,Brazil,Upper middle income,South America
+517,605,5133,Brazil,Upper middle income,South America
+518,606,233,Brazil,Upper middle income,South America
+519,607,1082,Brazil,Upper middle income,South America
+520,608,791,United States,High income,North America
+521,609,1221,United States,High income,North America
+522,610,1458,Italy,High income,Europe
+523,611,388,Norway,High income,Europe
+524,612,753,Afghanistan,Low income,Asia
+525,613,388,Norway,High income,Europe
+526,614,418,Lebanon,Upper middle income,Asia
+527,615,360,Lebanon,Upper middle income,Asia
+528,616,719,Taiwan,High income,Asia
+529,617,400,Norway,High income,Europe
+530,618,885,Norway,High income,Europe
+531,619,4650,Norway,High income,Europe
+532,620,76,Norway,High income,Europe
+533,621,6763,Norway,High income,Europe
+534,625,1798,Mexico,Upper middle income,North America
+535,626,743,United States,High income,North America
+536,627,1325,United States,High income,North America
+537,628,7627,United States,High income,North America
+538,629,657,United States,High income,North America
+539,630,524,United States,High income,North America
+540,631,1339,United States,High income,North America
+541,632,8288,United States,High income,North America
+542,633,776,United States,High income,North America
+543,634,1471,United States,High income,North America
+544,635,456,Spain,High income,Europe
+545,636,1321,Iraq,Upper middle income,Asia
+546,637,249,Iraq,Upper middle income,Asia
+547,638,348,Austria,High income,Europe
+548,639,1120,Austria,High income,Europe
+549,640,717,Austria,High income,Europe
+550,641,1343,United States,High income,North America
+551,642,488,United States,High income,North America
+552,644,1188,Austria,High income,Europe
+553,645,645,Austria,High income,Europe
+554,646,701,United States,High income,North America
+555,647,1367,United States,High income,North America
+556,648,3562,United States,High income,North America
+557,649,1431,United States,High income,North America
+558,651,435,United States,High income,North America
+559,652,1802,United States,High income,North America
+560,653,661,Afghanistan,Low income,Asia
+561,655,7305,United States,High income,North America
+562,656,423,Tunisia,Lower middle income,Africa
+563,657,2194,United States,High income,North America
+564,660,1271,Japan,High income,Asia
+565,664,831,Pakistan,Lower middle income,Asia
+566,666,4168,United States,High income,North America
+567,667,1382,United States,High income,North America
+568,668,1235,United States,High income,North America
+569,669,2170,United States,High income,North America
+570,670,1273,United States,High income,North America
+571,671,955,United States,High income,North America
+572,672,1026,United States,High income,North America
+573,673,746,United States,High income,North America
+574,675,1981,United States,High income,North America
+575,676,713,United States,High income,North America
+576,677,1948,United States,High income,North America
+577,678,1987,United States,High income,North America
+578,679,649,United States,High income,North America
+579,680,6963,United States,High income,North America
+580,681,3917,United States,High income,North America
+581,682,1842,United States,High income,North America
+582,683,2802,United States,High income,North America
+583,684,1158,United States,High income,North America
+584,685,11439,United States,High income,North America
+585,686,2030,United States,High income,North America
+586,687,3733,United States,High income,North America
+587,688,1133,Afghanistan,Low income,Asia
+588,689,2060,United States,High income,North America
+589,691,487,Germany,High income,Europe
+590,692,1197,United States,High income,North America
+591,693,680,United States,High income,North America
+592,695,5896,United States,High income,North America
+593,697,10038,United States,High income,North America
+594,698,554,United States,High income,North America
+595,699,6330,United States,High income,North America
+596,700,4633,United States,High income,North America
+597,701,2645,Japan,High income,Asia
+598,702,828,Japan,High income,Asia
+599,703,506,Japan,High income,Asia
+600,705,487,Japan,High income,Asia
+601,706,944,United States,High income,North America
+602,708,1316,United States,High income,North America
+603,710,1075,Russia,Upper middle income,Europe
+604,711,1585,Russia,Upper middle income,Europe
+605,712,871,Russia,Upper middle income,Europe
+606,714,1018,Russia,Upper middle income,Europe
+607,716,2005,United States,High income,North America
+608,717,6448,United States,High income,North America
+609,718,720,Japan,High income,Asia
+610,719,2060,United States,High income,North America
+611,720,1099,United States,High income,North America
+612,721,824,China,Upper middle income,Asia
+613,722,441,Afghanistan,Low income,Asia
+614,723,1363,Afghanistan,Low income,Asia
+615,724,5695,Afghanistan,Low income,Asia
+616,725,1860,United States,High income,North America
+617,728,473,United States,High income,North America
+618,729,1602,United States,High income,North America
+619,730,984,United States,High income,North America
+620,731,1085,United States,High income,North America
+621,732,847,Greece,High income,Europe
+622,733,1554,Greece,High income,Europe
+623,734,813,Germany,High income,Europe
+624,735,1106,United States,High income,North America
+625,736,524,Germany,High income,Europe
+626,737,1266,United Kingdom,High income,Europe
+627,738,1309,United States,High income,North America
+628,739,1313,United States,High income,North America
+629,740,763,United States,High income,North America
+630,741,490,Spain,High income,Europe
+631,742,2851,China,Upper middle income,Asia
+632,743,784,United States,High income,North America
+633,744,521,United States,High income,North America
+634,745,749,United States,High income,North America
+635,746,866,United States,High income,North America
+636,747,988,United States,High income,North America
+637,748,895,United States,High income,North America
+638,749,3101,United States,High income,North America
+639,750,1873,China,Upper middle income,Asia
+640,751,152,United States,High income,North America
+641,752,764,United States,High income,North America
+642,753,4087,United States,High income,North America
+643,754,2075,United States,High income,North America
+644,755,3273,United States,High income,North America
+645,756,697,United States,High income,North America
+646,758,414,United States,High income,North America
+647,759,2957,United States,High income,North America
+648,760,106,Israel,High income,Asia
+649,761,4108,United States,High income,North America
+650,762,522,Netherlands,High income,Europe
+651,763,1460,United States,High income,North America
+652,764,489,United States,High income,North America
+653,767,1100,Mexico,Upper middle income,North America
+654,768,541,Mexico,Upper middle income,North America
+655,769,1193,United States,High income,North America
+656,770,789,Australia,High income,Oceania
+657,771,1510,United States,High income,North America
+658,772,1409,United States,High income,North America
+659,773,837,United States,High income,North America
+660,774,832,Ukraine,Lower middle income,Europe
+661,775,4564,United States,High income,North America
+662,776,978,United States,High income,North America
+663,777,1672,Australia,High income,Oceania
+664,778,3894,United States,High income,North America
+665,780,746,Afghanistan,Low income,Asia
+666,781,3315,United States,High income,North America
+667,782,2826,Brazil,Upper middle income,South America
+668,784,1161,Sudan,Low income,Africa
+669,785,2038,Sudan,Low income,Africa
+670,786,887,United States,High income,North America
+671,787,11133,United States,High income,North America
+672,789,413,Mexico,Upper middle income,North America
+673,790,841,United States,High income,North America
+674,792,5471,United Kingdom,High income,Europe
+675,793,855,Russia,Upper middle income,Europe
+676,795,675,Russia,Upper middle income,Europe
+677,797,3950,United States,High income,North America
+678,798,3515,United States,High income,North America
+679,799,763,United States,High income,North America
+680,800,1043,United States,High income,North America
+681,801,583,United States,High income,North America
+682,802,460,Netherlands,High income,Europe
+683,803,1828,United States,High income,North America
+684,804,1793,Australia,High income,Oceania
+685,805,579,United States,High income,North America
+686,806,2445,United States,High income,North America
+687,807,1378,United States,High income,North America
+688,808,1088,United States,High income,North America
+689,812,4895,Brazil,Upper middle income,South America
+690,813,1494,Brazil,Upper middle income,South America
+691,814,680,United States,High income,North America
+692,815,1313,United States,High income,North America
+693,816,1644,United States,High income,North America
+694,818,752,Afghanistan,Low income,Asia
+695,821,1214,United States,High income,North America
+696,823,744,Afghanistan,Low income,Asia
+697,824,1089,United States,High income,North America
+698,825,107,United States,High income,North America
+699,826,46,United States,High income,North America
+700,827,873,United States,High income,North America
+701,828,381,Georgia,Upper middle income,Asia
+702,829,868,Georgia,Upper middle income,Asia
+703,830,1551,United States,High income,North America
+704,831,454,United States,High income,North America
+705,832,964,United States,High income,North America
+706,833,3516,United States,High income,North America
+707,834,9614,United States,High income,North America
+708,835,676,United States,High income,North America
+709,836,692,United States,High income,North America
+710,837,637,United States,High income,North America
+711,838,1478,United States,High income,North America
+712,839,647,United States,High income,North America
+713,840,943,United States,High income,North America
+714,841,1649,United States,High income,North America
+715,842,1808,United States,High income,North America
+716,843,3729,United States,High income,North America
+717,844,171,United States,High income,North America
+718,845,1358,United States,High income,North America
+719,846,781,United States,High income,North America
+720,848,2086,United States,High income,North America
+721,849,925,United States,High income,North America
+722,850,2792,United States,High income,North America
+723,851,3699,United States,High income,North America
+724,852,2581,United States,High income,North America
+725,854,467,United States,High income,North America
+726,856,2197,United States,High income,North America
+727,857,462,United States,High income,North America
+728,858,590,United States,High income,North America
+729,859,3671,United States,High income,North America
+730,860,477,United States,High income,North America
+731,861,1217,United States,High income,North America
+732,862,976,Afghanistan,Low income,Asia
+733,863,3072,United States,High income,North America
+734,864,3224,United States,High income,North America
+735,865,3299,United States,High income,North America
+736,866,2413,United States,High income,North America
+737,867,543,United States,High income,North America
+738,868,1332,United States,High income,North America
+739,869,1383,Afghanistan,Low income,Asia
+740,870,1065,Afghanistan,Low income,Asia
+741,871,448,Afghanistan,Low income,Asia
+742,872,3028,United States,High income,North America
+743,873,2628,Afghanistan,Low income,Asia
+744,874,791,United States,High income,North America
+745,875,1091,United States,High income,North America
+746,876,9920,United States,High income,North America
+747,877,1801,Afghanistan,Low income,Asia
+748,878,409,Afghanistan,Low income,Asia
+749,879,4205,United States,High income,North America
+750,880,3722,Mexico,Upper middle income,North America
+751,882,7299,Mexico,Upper middle income,North America
+752,883,1440,El Salvador,Lower middle income,North America
+753,884,1196,United States,High income,North America
+754,885,873,United States,High income,North America
+755,886,603,Afghanistan,Low income,Asia
+756,887,1630,Afghanistan,Low income,Asia
+757,888,863,United States,High income,North America
+758,889,761,United States,High income,North America
+759,890,3742,United States,High income,North America
+760,891,839,United States,High income,North America
+761,892,1087,France,High income,Europe
+762,894,3124,Afghanistan,Low income,Asia
+763,895,491,China,Upper middle income,Asia
+764,896,759,China,Upper middle income,Asia
+765,897,1109,United States,High income,North America
+766,898,1531,United States,High income,North America
+767,900,3593,United States,High income,North America
+768,901,939,United States,High income,North America
+769,902,890,United States,High income,North America
+770,903,1954,United States,High income,North America
+771,904,1113,United States,High income,North America
+772,905,1814,Afghanistan,Low income,Asia
+773,906,1249,United States,High income,North America
+774,907,3252,United States,High income,North America
+775,908,803,United States,High income,North America
+776,909,2301,United States,High income,North America
+777,910,2324,United States,High income,North America
+778,911,3898,United States,High income,North America
+779,912,924,Netherlands,High income,Europe
+780,913,1230,New Zealand,High income,Oceania
+781,914,584,New Zealand,High income,Oceania
+782,915,1829,New Zealand,High income,Oceania
+783,916,744,United States,High income,North America
+784,918,1558,United States,High income,North America
+785,919,1218,United States,High income,North America
+786,920,608,United States,High income,North America
+787,921,1648,United States,High income,North America
+788,922,511,United States,High income,North America
+789,923,3707,United States,High income,North America
+790,924,3198,United States,High income,North America
+791,926,3374,Afghanistan,Low income,Asia
+792,927,1917,United States,High income,North America
+793,928,979,United States,High income,North America
+794,929,808,United States,High income,North America
+795,930,724,United States,High income,North America
+796,931,4719,Afghanistan,Low income,Asia
+797,933,976,United States,High income,North America
+798,935,954,United States,High income,North America
+799,936,1218,United States,High income,North America
+800,937,817,United States,High income,North America
+801,939,1462,United States,High income,North America
+802,940,2880,United States,High income,North America
+803,941,1239,United States,High income,North America
+804,942,622,United States,High income,North America
+805,943,2141,United States,High income,North America
+806,944,806,United States,High income,North America
+807,946,1603,United States,High income,North America
+808,947,1904,United States,High income,North America
+809,949,6107,United States,High income,North America
+810,950,1202,United States,High income,North America
+811,951,2438,United States,High income,North America
+812,952,2318,United States,High income,North America
+813,953,1337,United States,High income,North America
+814,956,3938,United States,High income,North America
+815,958,3296,United States,High income,North America
+816,960,1489,United States,High income,North America
+817,961,1717,United States,High income,North America
+818,962,511,United States,High income,North America
+819,964,870,Afghanistan,Low income,Asia
+820,966,1249,United States,High income,North America
+821,967,2032,United States,High income,North America
+822,968,734,United States,High income,North America
+823,970,1434,Afghanistan,Low income,Asia
+824,974,2281,Afghanistan,Low income,Asia
+825,977,1618,United States,High income,North America
+826,978,2548,United States,High income,North America
+827,979,877,United States,High income,North America
+828,980,553,United States,High income,North America
+829,982,636,Afghanistan,Low income,Asia
+830,983,7400,United States,High income,North America
+831,985,703,Afghanistan,Low income,Asia
+832,986,2234,Afghanistan,Low income,Asia
+833,989,1504,Afghanistan,Low income,Asia
+834,992,5504,Afghanistan,Low income,Asia
+835,993,1901,Afghanistan,Low income,Asia
+836,996,1640,Afghanistan,Low income,Asia
+837,998,636,United States,High income,North America
+838,999,665,Afghanistan,Low income,Asia
+839,1002,1330,Afghanistan,Low income,Asia
+840,1004,3211,United States,High income,North America
+841,1005,2163,Brazil,Upper middle income,South America
+842,1006,1215,Afghanistan,Low income,Asia
+843,1007,4155,Afghanistan,Low income,Asia
+844,1008,985,Georgia,Upper middle income,Asia
+845,1010,2708,Mexico,Upper middle income,North America
+846,1013,3769,Afghanistan,Low income,Asia
+847,1014,1588,Afghanistan,Low income,Asia
+848,1016,1898,United States,High income,North America
+849,1017,2061,United States,High income,North America
+850,1018,3481,United States,High income,North America
+851,1019,7138,United States,High income,North America
+852,1020,15467,United States,High income,North America
+853,1021,809,Afghanistan,Low income,Asia
+854,1022,5479,United States,High income,North America
+855,1023,8628,United States,High income,North America
+856,1025,821,United States,High income,North America
+857,1026,2823,United States,High income,North America
+858,1027,1517,United States,High income,North America
+859,1028,2035,United States,High income,North America
+860,1029,833,United States,High income,North America
+861,1030,1655,United States,High income,North America
+862,1031,803,United States,High income,North America
+863,1032,762,United States,High income,North America
+864,1034,589,Afghanistan,Low income,Asia
+865,1035,9617,Afghanistan,Low income,Asia
+866,1036,1100,United States,High income,North America
+867,1037,1002,United States,High income,North America
+868,1038,3673,United States,High income,North America
+869,1039,1288,United States,High income,North America
+870,1041,830,Afghanistan,Low income,Asia
+871,1042,1134,United States,High income,North America
+872,1043,704,Mexico,Upper middle income,North America
+873,1044,979,United States,High income,North America
+874,1045,3213,United States,High income,North America
+875,1046,12119,Afghanistan,Low income,Asia
+876,1048,463,Afghanistan,Low income,Asia
+877,1049,952,Afghanistan,Low income,Asia
+878,1050,3108,Afghanistan,Low income,Asia
+879,1052,1273,United States,High income,North America
+880,1054,1416,United States,High income,North America
+881,1055,2372,United States,High income,North America
+882,1057,669,Mexico,Upper middle income,North America
+883,1059,1561,Mexico,Upper middle income,North America
+884,1060,2615,Mexico,Upper middle income,North America
+885,1061,1202,United States,High income,North America
+886,1063,1362,United States,High income,North America
+887,1064,3235,United States,High income,North America
+888,1066,6598,United States,High income,North America
+889,1068,3436,Afghanistan,Low income,Asia
+890,1069,465,Mexico,Upper middle income,North America
+891,1071,2050,United States,High income,North America
+892,1072,2101,United Arab Emirates,High income,Asia
+893,1073,1762,Afghanistan,Low income,Asia
+894,1074,3307,United States,High income,North America
+895,1075,4691,United States,High income,North America
+896,1076,1991,United States,High income,North America
+897,1078,1623,Haiti,Lower middle income,North America
+898,1081,459,Haiti,Lower middle income,North America
+899,1082,3048,Haiti,Lower middle income,North America
+900,1083,1487,Haiti,Lower middle income,North America
+901,1084,3581,Afghanistan,Low income,Asia
+902,1085,480,United States,High income,North America
+903,1086,4047,Afghanistan,Low income,Asia
+904,1090,6113,Afghanistan,Low income,Asia
+905,1093,2798,Haiti,Lower middle income,North America
+906,1094,24535,Afghanistan,Low income,Asia
+907,1096,1891,Haiti,Lower middle income,North America
+908,1098,1631,Afghanistan,Low income,Asia
+909,1099,3006,Afghanistan,Low income,Asia
+910,1101,913,Afghanistan,Low income,Asia
+911,1102,682,Japan,High income,Asia
+912,1103,2825,Japan,High income,Asia
+913,1104,658,Japan,High income,Asia
+914,1105,1645,Haiti,Lower middle income,North America
+915,1106,3828,Afghanistan,Low income,Asia
+916,1107,2483,Haiti,Lower middle income,North America
+917,1108,1013,Afghanistan,Low income,Asia
+918,1110,879,Turkey,Upper middle income,Asia
+919,1112,1881,Haiti,Lower middle income,North America
+920,1114,391,Afghanistan,Low income,Asia
+921,1115,1889,United States,High income,North America
+922,1116,1860,Afghanistan,Low income,Asia
+923,1117,899,Afghanistan,Low income,Asia
+924,1118,558,Afghanistan,Low income,Asia
+925,1119,661,Afghanistan,Low income,Asia
+926,1120,820,United Kingdom,High income,Europe
+927,1121,1874,Afghanistan,Low income,Asia
+928,1122,2258,Afghanistan,Low income,Asia
+929,1123,2496,Afghanistan,Low income,Asia
+930,1125,390,Zambia,Lower middle income,Africa
+931,1127,1929,Netherlands,High income,Europe
+932,1128,442,United States,High income,North America
+933,1130,2140,Afghanistan,Low income,Asia
+934,1132,10636,Afghanistan,Low income,Asia
+935,1133,2588,Afghanistan,Low income,Asia
+936,1134,2709,United States,High income,North America
+937,1135,878,United States,High income,North America
+938,1136,943,United States,High income,North America
+939,1138,5705,United States,High income,North America
+940,1139,818,United States,High income,North America
+941,1141,1269,Germany,High income,Europe
+942,1142,943,Germany,High income,Europe
+943,1143,1451,Germany,High income,Europe
+944,1144,842,United States,High income,North America
+945,1145,567,United States,High income,North America
+946,1146,5168,United States,High income,North America
+947,1147,905,United States,High income,North America
+948,1148,725,United States,High income,North America
+949,1149,864,United States,High income,North America
+950,1152,708,United States,High income,North America
+951,1153,1553,Spain,High income,Europe
+952,1154,814,China,Upper middle income,Asia
+953,1155,2446,China,Upper middle income,Asia
+954,1156,4990,United States,High income,North America
+955,1158,2633,United States,High income,North America
+956,1161,554,Barbados,High income,North America
+957,1162,3469,United States,High income,North America
+958,1163,2166,United Kingdom,High income,Europe
+959,1164,3115,United Kingdom,High income,Europe
+960,1165,1377,United Kingdom,High income,Europe
+961,1166,1194,United Kingdom,High income,Europe
+962,1169,1141,United States,High income,North America
+963,1171,826,United States,High income,North America
+964,1175,2349,France,High income,Europe
+965,1176,3413,United States,High income,North America
+966,1178,2539,United States,High income,North America
+967,1181,844,United States,High income,North America
+968,1182,2084,United States,High income,North America
+969,1183,1880,United States,High income,North America
+970,1184,2098,United States,High income,North America
+971,1185,400,Netherlands,High income,Europe
+972,1186,708,Iran,Lower middle income,Asia
+973,1189,898,Australia,High income,Oceania
+974,1192,5333,United States,High income,North America
+975,1194,2855,United States,High income,North America
+976,1195,875,United Arab Emirates,High income,Asia
+977,1196,1969,United States,High income,North America
+978,1198,1198,United States,High income,North America
+979,1199,3453,United States,High income,North America
+980,1200,618,United States,High income,North America
+981,1203,1843,United States,High income,North America
+982,1204,8281,United States,High income,North America
+983,1205,605,United States,High income,North America
+984,1207,963,United States,High income,North America
+985,1209,1374,Canada,High income,North America
+986,1210,724,Canada,High income,North America
+987,1211,5425,Italy,High income,Europe
+988,1212,2134,Japan,High income,Asia
+989,1214,2347,Japan,High income,Asia
+990,1215,2425,Japan,High income,Asia
+991,1216,5372,Jamaica,Upper middle income,North America
+992,1222,573,United States,High income,North America
+993,1223,2695,United States,High income,North America
+994,1224,4378,United States,High income,North America
+995,1225,1397,United States,High income,North America
+996,1227,679,Cuba,Upper middle income,North America
+997,1228,1870,Cuba,Upper middle income,North America
+998,1229,3103,Cuba,Upper middle income,North America
+999,1230,518,Cuba,Upper middle income,North America
+1000,1232,1009,Cuba,Upper middle income,North America
+1001,1233,634,United States,High income,North America
+1002,1234,3652,United States,High income,North America
+1003,1236,2107,United States,High income,North America
+1004,1237,1528,Israel,High income,Asia
+1005,1238,1054,Israel,High income,Asia
+1006,1239,12470,United States,High income,North America
+1007,1240,722,United States,High income,North America
+1008,1241,1118,Israel,High income,Asia
+1009,1243,379,United States,High income,North America
+1010,1244,3755,United States,High income,North America
+1011,1247,3017,United States,High income,North America
+1012,1249,57,United States,High income,North America
+1013,1250,747,United States,High income,North America
+1014,1251,2108,United States,High income,North America
+1015,1252,4725,United States,High income,North America
+1016,1253,7164,United States,High income,North America
+1017,1254,2106,United States,High income,North America
+1018,1255,603,United States,High income,North America
+1019,1256,3962,Japan,High income,Asia
+1020,1257,480,United States,High income,North America
+1021,1258,2887,Canada,High income,North America
+1022,1260,3352,Canada,High income,North America
+1023,1261,3371,Canada,High income,North America
+1024,1262,584,United States,High income,North America
+1025,1263,1244,United States,High income,North America
+1026,1266,1413,United States,High income,North America
+1027,1268,452,China,Upper middle income,Asia
+1028,1269,574,United States,High income,North America
+1029,1270,1097,Czech,High income,North America
+1030,1271,887,United States,High income,North America
+1031,1273,1756,United States,High income,North America
+1032,1274,418,United States,High income,North America
+1033,1275,1028,United States,High income,North America
+1034,1276,2028,United States,High income,North America
+1035,1279,1776,United States,High income,North America
+1036,1280,1857,United States,High income,North America
+1037,1281,1349,United States,High income,North America
+1038,1282,2552,United States,High income,North America
+1039,1284,1769,United States,High income,North America
+1040,1286,1658,United States,High income,North America
+1041,1287,2181,United States,High income,North America
+1042,1288,647,United States,High income,North America
+1043,1289,1710,United States,High income,North America
+1044,1290,1956,United States,High income,North America
+1045,1291,670,China,Upper middle income,Asia
+1046,1292,612,China,Upper middle income,Asia
+1047,1293,1070,China,Upper middle income,Asia
+1048,1294,1720,United States,High income,North America
+1049,1295,1067,United States,High income,North America
+1050,1296,883,United States,High income,North America
+1051,1297,450,United States,High income,North America
+1052,1298,2035,United States,High income,North America
+1053,1299,2841,Australia,High income,Oceania
+1054,1301,3610,Australia,High income,Oceania
+1055,1302,1980,United States,High income,North America
+1056,1303,1682,United States,High income,North America
+1057,1304,713,United States,High income,North America
+1058,1305,1055,United States,High income,North America
+1059,1306,567,United States,High income,North America
+1060,1308,1098,Netherlands,High income,Europe
+1061,1309,1821,Netherlands,High income,Europe
+1062,1310,897,United States,High income,North America
+1063,1312,325,Germany,High income,Europe
+1064,1313,2783,Germany,High income,Europe
+1065,1314,3940,Germany,High income,Europe
+1066,1315,1903,South Africa,Aggregates,Africa
+1067,1317,1479,Australia,High income,Oceania
+1068,1318,808,United States,High income,North America
+1069,1319,2321,United States,High income,North America
+1070,1320,1941,United States,High income,North America
+1071,1321,2279,United States,High income,North America
+1072,1322,1330,United States,High income,North America
+1073,1323,6049,Japan,High income,Asia
+1074,1324,2077,Japan,High income,Asia
+1075,1327,1191,Peru,Upper middle income,South America
+1076,1328,7009,Peru,Upper middle income,South America
+1077,1329,665,United States,High income,North America
+1078,1330,633,United States,High income,North America
+1079,1332,471,United States,High income,North America
+1080,1333,581,United States,High income,North America
+1081,1334,1571,United States,High income,North America
+1082,1335,529,United States,High income,North America
+1083,1336,701,United States,High income,North America
+1084,1338,4778,Canada,High income,North America
+1085,1339,561,United States,High income,North America
+1086,1340,1113,United Kingdom,High income,Europe
+1087,1341,4646,Canada,High income,North America
+1088,1342,1049,United States,High income,North America
+1089,1343,766,Saudi Arabia,High income,Asia
+1090,1344,6650,United States,High income,North America
+1091,1345,368,Haiti,Lower middle income,North America
+1092,1346,1086,Haiti,Lower middle income,North America
+1093,1348,1490,China,Upper middle income,Asia
+1094,1350,1187,Austria,High income,Europe
+1095,1351,1161,Austria,High income,Europe
+1096,1352,6244,Austria,High income,Europe
+1097,1353,1079,United States,High income,North America
+1098,1354,547,United States,High income,North America
+1099,1356,503,United States,High income,North America
+1100,1357,2177,United States,High income,North America
+1101,1358,3980,United States,High income,North America
+1102,1359,803,Germany,High income,Europe
+1103,1360,955,Germany,High income,Europe
+1104,1361,466,United States,High income,North America
+1105,1363,1575,United States,High income,North America
+1106,1364,2797,United States,High income,North America
+1107,1365,785,United States,High income,North America
+1108,1366,1030,United States,High income,North America
+1109,1367,2571,Cuba,Upper middle income,North America
+1110,1368,1426,Cuba,Upper middle income,North America
+1111,1369,8488,United States,High income,North America
+1112,1370,1041,Germany,High income,Europe
+1113,1371,1200,Germany,High income,Europe
+1114,1373,570,Germany,High income,Europe
+1115,1374,1642,Germany,High income,Europe
+1116,1375,1366,United States,High income,North America
+1117,1376,2021,United States,High income,North America
+1118,1377,2381,United States,High income,North America
+1119,1378,970,United States,High income,North America
+1120,1379,713,United States,High income,North America
+1121,1380,1857,United States,High income,North America
+1122,1381,995,Iraq,Upper middle income,Asia
+1123,1383,1463,United States,High income,North America
+1124,1385,1760,United States,High income,North America
+1125,1386,864,United Kingdom,High income,Europe
+1126,1387,416,United States,High income,North America
+1127,1388,441,Jordan,Upper middle income,Asia
+1128,1390,1320,United Kingdom,High income,Europe
+1129,1391,6864,United Kingdom,High income,Europe
+1130,1393,923,United States,High income,North America
+1131,1395,1226,United States,High income,North America
+1132,1397,1505,United States,High income,North America
+1133,1398,1052,United States,High income,North America
+1134,1399,2885,United States,High income,North America
+1135,1400,2005,United States,High income,North America
+1136,1402,4468,United States,High income,North America
+1137,1403,1566,United States,High income,North America
+1138,1407,772,United States,High income,North America
+1139,1409,15475,United States,High income,North America
+1140,1410,2791,United States,High income,North America
+1141,1411,1403,Haiti,Lower middle income,North America
+1142,1412,1415,Haiti,Lower middle income,North America
+1143,1413,776,Haiti,Lower middle income,North America
+1144,1414,2041,Japan,High income,Asia
+1145,1415,788,Japan,High income,Asia
+1146,1417,12845,United States,High income,North America
+1147,1418,634,United States,High income,North America
+1148,1419,596,United Arab Emirates,High income,Asia
+1149,1420,1434,United States,High income,North America
+1150,1422,2187,United States,High income,North America
+1151,1423,831,United States,High income,North America
+1152,1424,310,United States,High income,North America
+1153,1425,967,Haiti,Lower middle income,North America
+1154,1426,1362,Haiti,Lower middle income,North America
+1155,1427,442,United States,High income,North America
+1156,1428,2309,United States,High income,North America
+1157,1430,420,United States,High income,North America
+1158,1431,114,United States,High income,North America
+1159,1434,1503,United States,High income,North America
+1160,1435,692,United States,High income,North America
+1161,1437,941,China,Upper middle income,Asia
+1162,1438,1111,United States,High income,North America
+1163,1439,1680,United States,High income,North America
+1164,1440,819,United States,High income,North America
+1165,1441,871,United States,High income,North America
+1166,1442,1377,United States,High income,North America
+1167,1443,616,United States,High income,North America
+1168,1445,1123,United States,High income,North America
+1169,1446,934,United States,High income,North America
+1170,1447,1845,United States,High income,North America
+1171,1448,1793,United States,High income,North America
+1172,1449,488,United States,High income,North America
+1173,1450,1397,United States,High income,North America
+1174,1451,726,United States,High income,North America
+1175,1452,727,Philippines,Lower middle income,Asia
+1176,1454,1231,United States,High income,North America
+1177,1455,2115,United States,High income,North America
+1178,1456,1083,United States,High income,North America
+1179,1457,2006,United States,High income,North America
+1180,1458,888,United States,High income,North America
+1181,1459,878,United States,High income,North America
+1182,1460,825,Japan,High income,Asia
+1183,1461,652,Japan,High income,Asia
+1184,1463,603,United States,High income,North America
+1185,1464,2291,United States,High income,North America
+1186,1465,1056,United States,High income,North America
+1187,1466,457,United States,High income,North America
+1188,1467,856,United States,High income,North America
+1189,1468,515,United States,High income,North America
+1190,1469,694,United States,High income,North America
+1191,1470,4874,United States,High income,North America
+1192,1473,1431,Afghanistan,Low income,Asia
+1193,1475,1155,Afghanistan,Low income,Asia
+1194,1476,974,Afghanistan,Low income,Asia
+1195,1477,788,United States,High income,North America
+1196,1479,1763,United States,High income,North America
+1197,1480,2675,United States,High income,North America
+1198,1481,402,United States,High income,North America
+1199,1482,756,United States,High income,North America
+1200,1483,1930,United States,High income,North America
+1201,1484,1402,United States,High income,North America
+1202,1485,595,China,Upper middle income,Asia
+1203,1486,4860,United States,High income,North America
+1204,1487,780,United States,High income,North America
+1205,1488,988,United States,High income,North America
+1206,1491,1498,United States,High income,North America
+1207,1492,2912,United States,High income,North America
+1208,1493,3102,United States,High income,North America
+1209,1494,1381,United States,High income,North America
+1210,1495,582,United States,High income,North America
+1211,1496,5409,United States,High income,North America
+1212,1497,908,United States,High income,North America
+1213,1498,1501,United States,High income,North America
+1214,1504,610,United States,High income,North America
+1215,1506,1326,United States,High income,North America
+1216,1507,1229,United States,High income,North America
+1217,1508,908,United States,High income,North America
+1218,1509,438,Myanmar,Lower middle income,Asia
+1219,1510,1986,Mexico,Upper middle income,North America
+1220,1511,540,Mexico,Upper middle income,North America
+1221,1512,933,United States,High income,North America
+1222,1513,1981,United States,High income,North America
+1223,1515,771,United States,High income,North America
+1224,1516,675,United States,High income,North America
+1225,1517,2665,United States,High income,North America
+1226,1519,746,United States,High income,North America
+1227,1521,888,United States,High income,North America
+1228,1522,945,United States,High income,North America
+1229,1523,3054,United States,High income,North America
+1230,1524,2148,United States,High income,North America
+1231,1525,1086,China,Upper middle income,Asia
+1232,1526,464,United States,High income,North America
+1233,1527,846,United States,High income,North America
+1234,1528,798,United States,High income,North America
+1235,1529,918,United States,High income,North America
+1236,1530,677,United States,High income,North America
+1237,1531,1151,United Kingdom,High income,Europe
+1238,1532,453,United Kingdom,High income,Europe
+1239,1533,808,United States,High income,North America
+1240,1534,697,United States,High income,North America
+1241,1535,1044,United States,High income,North America
+1242,1537,2343,Australia,High income,Oceania
+1243,1538,881,United States,High income,North America
+1244,1539,2504,United States,High income,North America
+1245,1541,1544,United States,High income,North America
+1246,1543,1480,United States,High income,North America
+1247,1544,5581,United States,High income,North America
+1248,1545,2213,Georgia,Upper middle income,Asia
+1249,1546,812,United States,High income,North America
+1250,1547,469,United States,High income,North America
+1251,1548,895,United States,High income,North America
+1252,1549,1530,United States,High income,North America
+1253,1550,1063,United States,High income,North America
+1254,1551,724,United States,High income,North America
+1255,1552,10610,United States,High income,North America
+1256,1553,4884,United States,High income,North America
+1257,1554,586,United States,High income,North America
+1258,1555,589,United States,High income,North America
+1259,1556,769,United States,High income,North America
+1260,1557,615,Philippines,Lower middle income,Asia
+1261,1558,1112,United States,High income,North America
+1262,1559,728,United States,High income,North America
+1263,1560,789,United States,High income,North America
+1264,1561,819,United States,High income,North America
+1265,1562,2552,United States,High income,North America
+1266,1563,1274,United States,High income,North America
+1267,1564,333,United States,High income,North America
+1268,1565,1174,United States,High income,North America
+1269,1566,1443,United States,High income,North America
+1270,1567,879,China,Upper middle income,Asia
+1271,1568,806,China,Upper middle income,Asia
+1272,1569,446,United States,High income,North America
+1273,1570,2525,United States,High income,North America
+1274,1571,633,United States,High income,North America
+1275,1573,907,United States,High income,North America
+1276,1574,2660,United States,High income,North America
+1277,1575,975,Brazil,Upper middle income,South America
+1278,1576,2620,United States,High income,North America
+1279,1577,7341,United States,High income,North America
+1280,1578,347,United States,High income,North America
+1281,1579,627,Nicaragua,Lower middle income,North America
+1282,1580,2306,Canada,High income,North America
+1283,1581,1727,Canada,High income,North America
+1284,1582,872,United States,High income,North America
+1285,1583,592,Russia,Upper middle income,Europe
+1286,1584,883,United States,High income,North America
+1287,1585,389,United States,High income,North America
+1288,1586,987,United States,High income,North America
+1289,1587,833,United States,High income,North America
+1290,1588,1084,United States,High income,North America
+1291,1589,11743,United States,High income,North America
+1292,1590,2076,United States,High income,North America
+1293,1591,639,United States,High income,North America
+1294,1592,587,Iran,Lower middle income,Asia
+1295,1593,967,United States,High income,North America
+1296,1594,1275,United States,High income,North America
+1297,1595,420,United States,High income,North America
+1298,1596,1726,United States,High income,North America
+1299,1598,1296,United States,High income,North America
+1300,1599,1625,United States,High income,North America
+1301,1601,764,Israel,High income,Asia
+1302,1602,4707,United States,High income,North America
+1303,1603,907,Zambia,Lower middle income,Africa
+1304,1604,1412,Zambia,Lower middle income,Africa
+1305,1605,2161,Zambia,Lower middle income,Africa
+1306,1607,538,Zambia,Lower middle income,Africa
+1307,1608,1150,Zambia,Lower middle income,Africa
+1308,1609,905,China,Upper middle income,Asia
+1309,1610,2039,China,Upper middle income,Asia
+1310,1611,8601,United States,High income,North America
+1311,1612,571,United States,High income,North America
+1312,1613,445,Mexico,Upper middle income,North America
+1313,1615,604,United States,High income,North America
+1314,1618,776,United States,High income,North America
+1315,1619,1329,West Bank and Gaza,Lower middle income,North America
+1316,1621,1883,United States,High income,North America
+1317,1623,564,United States,High income,North America
+1318,1624,842,United States,High income,North America
+1319,1625,919,United States,High income,North America
+1320,1627,707,United States,High income,North America
+1321,1628,1045,United States,High income,North America
+1322,1629,1233,United States,High income,North America
+1323,1630,2127,United States,High income,North America
+1324,1631,1491,Georgia,Upper middle income,Asia
+1325,1632,1470,Georgia,Upper middle income,Asia
+1326,1633,516,United States,High income,North America
+1327,1634,706,United States,High income,North America
+1328,1635,658,United States,High income,North America
+1329,1636,1898,United States,High income,North America
+1330,1637,568,United Kingdom,High income,Europe
+1331,1638,485,United States,High income,North America
+1332,1639,838,United States,High income,North America
+1333,1640,355,United States,High income,North America
+1334,1642,4320,Belgium,High income,Europe
+1335,1644,474,United States,High income,North America
+1336,1645,4523,United States,High income,North America
+1337,1646,2490,United States,High income,North America
+1338,1647,2376,United States,High income,North America
+1339,1648,907,United States,High income,North America
+1340,1649,3458,United States,High income,North America
+1341,1650,4656,Israel,High income,Asia
+1342,1651,1962,Israel,High income,Asia
+1343,1652,1466,United Kingdom,High income,Europe
+1344,1653,758,China,Upper middle income,Asia
+1345,1654,784,China,Upper middle income,Asia
+1346,1655,1782,United States,High income,North America
+1347,1656,4611,Finland,High income,Europe
+1348,1657,880,United Kingdom,High income,Europe
+1349,1658,6620,Denmark,High income,Europe
+1350,1659,941,Russia,Upper middle income,Europe
+1351,1660,1108,United States,High income,North America
+1352,1662,2492,United States,High income,North America
+1353,1664,594,United States,High income,North America
+1354,1665,963,United States,High income,North America
+1355,1666,4448,United States,High income,North America
+1356,1667,328,United States,High income,North America
+1357,1668,1028,United States,High income,North America
+1358,1669,2272,United States,High income,North America
+1359,1670,650,United States,High income,North America
+1360,1671,6039,United States,High income,North America
+1361,1673,727,United States,High income,North America
+1362,1674,498,United States,High income,North America
+1363,1675,1155,United States,High income,North America
+1364,1676,2500,United States,High income,North America
+1365,1677,5981,United States,High income,North America
+1366,1678,1045,United States,High income,North America
+1367,1679,4571,United States,High income,North America
+1368,1680,1185,United States,High income,North America
+1369,1681,596,United States,High income,North America
+1370,1682,1056,Brazil,Upper middle income,South America
+1371,1683,1574,United States,High income,North America
+1372,1684,3895,United States,High income,North America
+1373,1685,359,United States,High income,North America
+1374,1686,2662,United States,High income,North America
+1375,1687,745,United States,High income,North America
+1376,1688,1125,United States,High income,North America
+1377,1689,393,United States,High income,North America
+1378,1690,371,Myanmar,Lower middle income,Asia
+1379,1692,1214,United States,High income,North America
+1380,1694,465,United States,High income,North America
+1381,1695,691,United States,High income,North America
+1382,1696,1028,United States,High income,North America
+1383,1697,1392,India,Lower middle income,Asia
+1384,1698,515,India,Lower middle income,Asia
+1385,1699,2015,United States,High income,North America
+1386,1700,717,United States,High income,North America
+1387,1701,1638,United States,High income,North America
+1388,1702,1583,United States,High income,North America
+1389,1703,773,Norway,High income,Europe
+1390,1704,1083,Norway,High income,Europe
+1391,1705,2021,United States,High income,North America
+1392,1706,2731,United States,High income,North America
+1393,1707,463,Mexico,Upper middle income,North America
+1394,1708,10272,United Kingdom,High income,Europe
+1395,1709,786,United Kingdom,High income,Europe
+1396,1710,1682,United Kingdom,High income,Europe
+1397,1711,834,Nigeria,Lower middle income,Africa
+1398,1712,1500,Burkina Faso,Low income,Africa
+1399,1713,947,Burkina Faso,Low income,Africa
+1400,1714,495,Burkina Faso,Low income,Africa
+1401,1715,655,Burkina Faso,Low income,Africa
+1402,1716,1101,United Kingdom,High income,Europe
+1403,1717,871,United Kingdom,High income,Europe
+1404,1718,2677,Portugal,High income,Europe
+1405,1720,1592,United States,High income,North America
+1406,1721,2563,United States,High income,North America
+1407,1722,3570,United States,High income,North America
+1408,1723,694,United States,High income,North America
+1409,1724,1540,United States,High income,North America
+1410,1726,1266,United States,High income,North America
+1411,1727,582,United States,High income,North America
+1412,1728,1639,United States,High income,North America
+1413,1729,2014,United States,High income,North America
+1414,1730,880,United States,High income,North America
+1415,1731,6358,United States,High income,North America
+1416,1732,1003,Saudi Arabia,High income,Asia
+1417,1733,2710,United States,High income,North America
+1418,1734,682,United States,High income,North America
+1419,1736,508,United States,High income,North America
+1420,1737,1961,United States,High income,North America
+1421,1738,4934,United States,High income,North America
+1422,1739,901,United States,High income,North America
+1423,1741,501,United States,High income,North America
+1424,1742,5182,United States,High income,North America
+1425,1743,10618,United States,High income,North America
+1426,1744,1408,United States,High income,North America
+1427,1745,1126,United States,High income,North America
+1428,1747,2617,United States,High income,North America
+1429,1748,1070,United States,High income,North America
+1430,1749,1027,Congo,Low income,Africa
+1431,1750,582,Congo,Low income,Africa
+1432,1751,3282,United States,High income,North America
+1433,1752,4441,United States,High income,North America
+1434,1753,772,United States,High income,North America
+1435,1755,2212,United States,High income,North America
+1436,1756,386,United States,High income,North America
+1437,1757,392,United States,High income,North America
+1438,1758,917,United States,High income,North America
+1439,1759,1218,Congo,Low income,Africa
+1440,1760,1274,United Kingdom,High income,Europe
+1441,1762,3210,United States,High income,North America
+1442,1764,626,United States,High income,North America
+1443,1765,935,United States,High income,North America
+1444,1766,768,United States,High income,North America
+1445,1767,955,United States,High income,North America
+1446,1768,473,Congo,Low income,Africa
+1447,1769,2513,Congo,Low income,Africa
+1448,1770,1156,Japan,High income,Asia
+1449,1771,1710,United States,High income,North America
+1450,1772,763,United States,High income,North America
+1451,1773,1029,United States,High income,North America
+1452,1774,576,Russia,Upper middle income,Europe
+1453,1776,421,Congo,Low income,Africa
+1454,1777,901,Congo,Low income,Africa
+1455,1778,494,Congo,Low income,Africa
+1456,1779,3564,United States,High income,North America
+1457,1780,3173,United States,High income,North America
+1458,1781,1600,United States,High income,North America
+1459,1782,2264,United States,High income,North America
+1460,1783,426,United States,High income,North America
+1461,1784,2852,China,Upper middle income,Asia
+1462,1785,1128,United States,High income,North America
+1463,1786,1195,United States,High income,North America
+1464,1787,2463,United States,High income,North America
+1465,1788,3738,United States,High income,North America
+1466,1789,735,United States,High income,North America
+1467,1790,701,United Kingdom,High income,Europe
+1468,1791,465,United States,High income,North America
+1469,1792,2608,United States,High income,North America
+1470,1793,420,United States,High income,North America
+1471,1794,1121,Georgia,Upper middle income,Asia
+1472,1795,6524,United States,High income,North America
+1473,1796,1797,Switzerland,High income,Europe
+1474,1797,1638,Switzerland,High income,Europe
+1475,1798,1216,Russia,Upper middle income,Europe
+1476,1799,1014,United States,High income,North America
+1477,1800,525,United States,High income,North America
+1478,1801,3333,United States,High income,North America
+1479,1802,1042,United States,High income,North America
+1480,1803,1205,Japan,High income,Asia
+1481,1804,689,Myanmar,Lower middle income,Asia
+1482,1805,2035,United States,High income,North America
+1483,1806,1083,United States,High income,North America
+1484,1807,566,Israel,High income,Asia
+1485,1808,681,Myanmar,Lower middle income,Asia
+1486,1809,5075,Myanmar,Lower middle income,Asia
+1487,1810,670,Italy,High income,Europe
+1488,1811,2133,Belarus,Upper middle income,Europe
+1489,1812,893,United States,High income,North America
+1490,1813,481,United States,High income,North America
+1491,1814,726,United States,High income,North America
+1492,1815,555,Belarus,Upper middle income,Europe
+1493,1816,620,Italy,High income,Europe
+1494,1817,747,United States,High income,North America
+1495,1818,1349,United States,High income,North America
+1496,1820,885,United States,High income,North America
+1497,1821,1463,Italy,High income,Europe
+1498,1822,1314,Congo,Low income,Africa
+1499,1824,939,Congo,Low income,Africa
+1500,1825,1101,Congo,Low income,Africa
+1501,1826,1795,United States,High income,North America
+1502,1827,6127,United States,High income,North America
+1503,1828,2305,United States,High income,North America
+1504,1829,1028,United States,High income,North America
+1505,1830,2613,Netherlands,High income,Europe
+1506,1831,1196,Argentina,Upper middle income,South America
+1507,1832,1875,Argentina,Upper middle income,South America
+1508,1833,4586,Israel,High income,Asia
+1509,1834,3153,United States,High income,North America
+1510,1835,1498,United States,High income,North America
+1511,1837,1015,Israel,High income,Asia
+1512,1839,2403,Israel,High income,Asia
+1513,1841,2229,West Bank and Gaza,Lower middle income,Asia
+1514,1843,9163,United States,High income,North America
+1515,1844,1058,United States,High income,North America
+1516,1845,3546,United States,High income,North America
+1517,1846,796,United States,High income,North America
+1518,1847,932,United States,High income,North America
+1519,1848,1221,United States,High income,North America
+1520,1849,523,United States,High income,North America
+1521,1850,1052,United States,High income,North America
+1522,1851,490,United States,High income,North America
+1523,1852,2666,United States,High income,North America
+1524,1853,2316,United States,High income,North America
+1525,1856,5227,West Bank and Gaza,Lower middle income,North America
+1526,1857,697,West Bank and Gaza,Lower middle income,North America
+1527,1859,5770,West Bank and Gaza,Lower middle income,North America
+1528,1861,2063,United States,High income,North America
+1529,1862,990,United States,High income,North America
+1530,1863,859,United States,High income,North America
+1531,1864,1530,India,Lower middle income,Asia
+1532,1865,1355,United States,High income,North America
+1533,1867,6362,United States,High income,North America
+1534,1868,1029,United States,High income,North America
+1535,1869,662,Saudi Arabia,High income,Asia
+1536,1870,849,United States,High income,North America
+1537,1872,1078,Israel,High income,Asia
+1538,1873,3712,United States,High income,North America
+1539,1875,1130,United States,High income,North America
+1540,1876,784,Saudi Arabia,High income,Asia
+1541,1878,3903,United States,High income,North America
+1542,1879,1619,United States,High income,North America
+1543,1880,54,United States,High income,North America
+1544,1882,535,United States,High income,North America
+1545,1883,1151,United States,High income,North America
+1546,1884,923,United States,High income,North America
+1547,1885,382,United States,High income,North America
+1548,1886,573,United States,High income,North America
+1549,1887,6719,United States,High income,North America
+1550,1889,1099,United States,High income,North America
+1551,1890,1860,United States,High income,North America
+1552,1891,1217,United States,High income,North America
+1553,1892,1658,United States,High income,North America
+1554,1893,3272,United States,High income,North America
+1555,1894,4481,West Bank and Gaza,Lower middle income,North America
+1556,1895,7859,West Bank and Gaza,Lower middle income,North America
+1557,1896,5617,United States,High income,North America
+1558,1897,747,United States,High income,North America
+1559,1898,1829,United States,High income,North America
+1560,1900,1073,Russia,Upper middle income,Europe
+1561,1901,331,United States,High income,North America
+1562,1902,210,United States,High income,North America
+1563,1903,1414,United States,High income,North America
+1564,1904,2555,United States,High income,North America
+1565,1906,804,United Kingdom,High income,Europe
+1566,1907,848,India,Lower middle income,Asia
+1567,1908,1246,United States,High income,North America
+1568,1909,2531,United States,High income,North America
+1569,1910,1686,United Kingdom,High income,Europe
+1570,1911,1785,United States,High income,North America
+1571,1912,1806,United States,High income,North America
+1572,1913,1249,United States,High income,North America
+1573,1914,4008,United States,High income,North America
+1574,1915,766,Mexico,Upper middle income,North America
+1575,1916,767,Saudi Arabia,High income,Asia
+1576,1917,3458,China,Upper middle income,Asia
+1577,1918,4184,United States,High income,North America
+1578,1919,821,United States,High income,North America
+1579,1920,1510,United States,High income,North America
+1580,1921,795,United States,High income,North America
+1581,1922,691,Mexico,Upper middle income,North America
+1582,1923,638,United States,High income,North America
+1583,1924,1602,Afghanistan,Low income,Asia
+1584,1925,1147,United States,High income,North America
+1585,1926,1564,United States,High income,North America
+1586,1927,3109,United States,High income,North America
+1587,1928,2191,United States,High income,North America
+1588,1929,1516,United States,High income,North America
+1589,1930,696,United States,High income,North America
+1590,1931,1392,Georgia,Upper middle income,Asia
+1591,1932,544,United States,High income,North America
+1592,1933,471,United States,High income,North America
+1593,1934,855,United States,High income,North America
+1594,1935,710,China,Upper middle income,Asia
+1595,1936,524,China,Upper middle income,Asia
+1596,1937,687,China,Upper middle income,Asia
+1597,1938,4840,China,Upper middle income,Asia
+1598,1939,634,United States,High income,North America
+1599,1940,1479,United States,High income,North America
+1600,1941,3856,United States,High income,North America
+1601,1942,2045,United States,High income,North America
+1602,1943,1427,United States,High income,North America
+1603,1944,2026,United States,High income,North America
+1604,1945,847,China,Upper middle income,Asia
+1605,1946,1004,India,Lower middle income,Asia
+1606,1947,1583,India,Lower middle income,Asia
+1607,1948,1185,India,Lower middle income,Asia
+1608,1949,769,United States,High income,North America
+1609,1951,3189,United States,High income,North America
+1610,1952,678,United States,High income,North America
+1611,1953,2054,United States,High income,North America
+1612,1954,1728,United States,High income,North America
+1613,1955,2198,United States,High income,North America
+1614,1956,642,India,Lower middle income,Asia
+1615,1957,5626,Mexico,Upper middle income,North America
+1616,1958,4631,Mexico,Upper middle income,North America
+1617,1959,6948,Mexico,Upper middle income,North America
+1618,1960,1524,United States,High income,North America
+1619,1961,786,United States,High income,North America
+1620,1962,797,United States,High income,North America
+1621,1963,1275,United States,High income,North America
+1622,1965,1324,United States,High income,North America
+1623,1966,1487,United States,High income,North America
+1624,1967,1053,United States,High income,North America
+1625,1968,983,United States,High income,North America
+1626,1969,736,United States,High income,North America
+1627,1970,480,United States,High income,North America
+1628,1972,835,United States,High income,North America
+1629,1973,1960,United States,High income,North America
+1630,1974,979,United States,High income,North America
+1631,1975,369,United States,High income,North America
+1632,1976,2594,United States,High income,North America
+1633,1977,717,Saudi Arabia,High income,Asia
+1634,1978,3442,Saudi Arabia,High income,Asia
+1635,1979,14152,United States,High income,North America
+1636,1980,2538,United States,High income,North America
+1637,1981,3720,United Kingdom,High income,Europe
+1638,1984,1071,Israel,High income,Asia
+1639,1985,919,Israel,High income,Asia
+1640,1986,842,Israel,High income,Asia
+1641,1988,2295,United States,High income,North America
+1642,1990,9394,United States,High income,North America
+1643,1991,540,United States,High income,North America
+1644,1992,624,United States,High income,North America
+1645,1994,1433,United States,High income,North America
+1646,1995,1148,United States,High income,North America
+1647,1996,577,United States,High income,North America
+1648,1997,850,United States,High income,North America
+1649,2002,1264,United States,High income,North America
+1650,2003,7683,United States,High income,North America
+1651,2004,3113,United States,High income,North America
+1652,2005,1543,United States,High income,North America
+1653,2006,2933,United States,High income,North America
+1654,2007,1313,United States,High income,North America
+1655,2008,4926,Ukraine,Lower middle income,Europe
+1656,2009,1464,Ukraine,Lower middle income,Europe
+1657,2010,2201,Ukraine,Lower middle income,Europe
+1658,2011,5508,Ukraine,Lower middle income,Europe
+1659,2012,4132,Ukraine,Lower middle income,Europe
+1660,2014,1577,Ukraine,Lower middle income,Europe
+1661,2015,1067,United States,High income,North America
+1662,2016,2690,United States,High income,North America
+1663,2017,1229,United States,High income,North America
+1664,2019,384,Russia,Upper middle income,Europe
+1665,2020,948,Russia,Upper middle income,Europe
+1666,2028,4023,Russia,Upper middle income,Europe
+1667,2030,1564,Russia,Upper middle income,Europe
+1668,2031,2374,Iraq,Upper middle income,Asia
+1669,2032,3157,United States,High income,North America
+1670,2033,1353,Iraq,Upper middle income,Asia
+1671,2034,8809,None,,Asia
+1672,2035,1989,United States,High income,North America
+1673,2036,954,Indonesia,Lower middle income,Asia
+1674,2037,1583,Indonesia,Lower middle income,Asia
+1675,2038,1115,Indonesia,Lower middle income,Asia
+1676,2040,1023,Indonesia,Lower middle income,Asia
+1677,2041,822,Indonesia,Lower middle income,Asia
+1678,2042,1738,United States,High income,North America
+1679,2044,3610,None,,North America
+1680,2045,1049,None,,North America
+1681,2046,513,France,High income,Europe
+1682,2047,1199,France,High income,Europe
+1683,2048,2429,United States,High income,North America
+1684,2051,91,United States,High income,North America
+1685,2052,4941,United States,High income,North America
+1686,2053,2650,United States,High income,North America
+1687,2054,881,United States,High income,North America
+1688,2055,6338,United States,High income,North America
+1689,2056,1694,India,Lower middle income,Asia
+1690,2057,1614,United States,High income,North America
+1691,2058,1864,United States,High income,North America
+1692,2059,2818,United States,High income,North America
+1693,2060,1649,United States,High income,North America
+1694,2062,4858,Netherlands,High income,Europe
+1695,2063,33311,United States,High income,North America
+1696,2064,2422,United States,High income,North America
+1697,2065,1080,United States,High income,North America
+1698,2066,5497,None,,North America
+1699,2067,1536,United States,High income,North America
+1700,2070,1245,Chad,Low income,Africa
+1701,2071,1469,United States,High income,North America
+1702,2072,1632,United States,High income,North America
+1703,2073,2567,United States,High income,North America
+1704,2074,1457,United States,High income,North America
+1705,2077,2593,United States,High income,North America
+1706,2078,2511,United States,High income,North America
+1707,2079,1485,United States,High income,North America
+1708,2080,3502,United States,High income,North America
+1709,2081,1009,United States,High income,North America
+1710,2082,10988,United States,High income,North America
+1711,2083,2448,United States,High income,North America
+1712,2084,7472,United States,High income,North America
+1713,2085,1311,United States,High income,North America
+1714,2086,10666,United States,High income,North America
+1715,2087,1054,South Africa,Aggregates,Africa
+1716,2088,778,Egypt,Lower middle income,Africa
+1717,2089,8460,United States,High income,North America
+1718,2090,1089,United States,High income,North America
+1719,2091,808,United States,High income,North America
+1720,2092,6288,United States,High income,North America
+1721,2095,4979,United States,High income,North America
+1722,2096,1000,United States,High income,North America
+1723,2097,3463,United States,High income,North America
+1724,2098,1727,United States,High income,North America
+1725,2099,797,United States,High income,North America
+1726,2100,5079,United States,High income,North America
+1727,2101,839,United States,High income,North America
+1728,2102,1203,Cuba,Upper middle income,North America
+1729,2103,2231,United States,High income,North America
+1730,2105,1266,United States,High income,North America
+1731,2106,704,United States,High income,North America
+1732,2107,512,China,Upper middle income,Asia
+1733,2108,1874,United States,High income,North America
+1734,2109,7055,United States,High income,North America
+1735,2110,2358,United States,High income,North America
+1736,2111,882,South Africa,Aggregates,Africa
+1737,2112,686,South Africa,Aggregates,Africa
+1738,2114,2008,United States,High income,North America
+1739,2118,798,United States,High income,North America
+1740,2120,11411,United States,High income,North America
+1741,2121,2995,United States,High income,North America
+1742,2122,1509,United States,High income,North America
+1743,2124,2097,United States,High income,North America
+1744,2125,3737,United States,High income,North America
+1745,2126,652,United States,High income,North America
+1746,2127,1111,United States,High income,North America
+1747,2128,4345,United States,High income,North America
+1748,2130,2689,Taiwan,High income,Asia
+1749,2131,9299,United States,High income,North America
+1750,2132,1158,United States,High income,North America
+1751,2133,673,United States,High income,North America
+1752,2134,5204,United States,High income,North America
+1753,2135,880,United States,High income,North America
+1754,2136,990,United States,High income,North America
+1755,2137,1467,United States,High income,North America
+1756,2138,602,United States,High income,North America
+1757,2140,514,France,High income,Europe
+1758,2141,1596,United States,High income,North America
+1759,2142,5113,Netherlands,High income,Europe
+1760,2143,664,Iran,Lower middle income,Asia
+1761,2144,542,Iran,Lower middle income,Asia
+1762,2145,2120,Iran,Lower middle income,Asia
+1763,2146,1109,United States,High income,North America
+1764,2147,951,United States,High income,North America
+1765,2148,601,United States,High income,North America
+1766,2149,1617,United States,High income,North America
+1767,2150,6270,United States,High income,North America
+1768,2151,1743,United States,High income,North America
+1769,2152,8039,United States,High income,North America
+1770,2153,1259,France,High income,Europe
+1771,2154,972,United States,High income,North America
+1772,2155,1897,United States,High income,North America
+1773,2156,14348,United States,High income,North America
+1774,2157,688,United States,High income,North America
+1775,2158,1442,United States,High income,North America
+1776,2159,1327,United States,High income,North America
+1777,2160,1006,United States,High income,North America
+1778,2161,2361,United States,High income,North America
+1779,2162,11528,United States,High income,North America
+1780,2163,2805,Georgia,Upper middle income,Asia
+1781,2164,1330,United States,High income,North America
+1782,2166,854,United States,High income,North America
+1783,2167,3771,United States,High income,North America
+1784,2168,1986,United States,High income,North America
+1785,2169,759,United States,High income,North America
+1786,2170,802,None,,North America
+1787,2171,986,United States,High income,North America
+1788,2172,3684,United States,High income,North America
+1789,2173,1575,United States,High income,North America
+1790,2174,1054,United States,High income,North America
+1791,2177,2389,United States,High income,North America
+1792,2178,8050,United States,High income,North America
+1793,2179,2165,United States,High income,North America
+1794,2180,1614,United States,High income,North America
+1795,2181,1599,United States,High income,North America
+1796,2182,635,Timor-Leste,Lower middle income,North America
+1797,2183,1426,United States,High income,North America
+1798,2184,1570,United States,High income,North America
+1799,2185,1053,United States,High income,North America
+1800,2186,1104,United States,High income,North America
+1801,2187,2202,United States,High income,North America
+1802,2188,628,Jordan,Upper middle income,Asia
+1803,2189,2118,United States,High income,North America
+1804,2190,7884,United States,High income,North America
+1805,2191,187,United States,High income,North America
+1806,2192,1105,United States,High income,North America
+1807,2194,2399,United States,High income,North America
+1808,2196,955,United States,High income,North America
+1809,2197,2877,United States,High income,North America
+1810,2198,2700,United States,High income,North America
+1811,2199,324,United States,High income,North America
+1812,2200,1789,United States,High income,North America
+1813,2201,1450,Taiwan,High income,Asia
+1814,2202,622,United States,High income,North America
+1815,2203,1484,Taiwan,High income,Asia
+1816,2205,889,Canada,High income,North America
+1817,2206,6021,Canada,High income,North America
+1818,2207,829,United States,High income,North America
+1819,2208,1070,United States,High income,North America
+1820,2209,806,United States,High income,North America
+1821,2210,3271,United States,High income,North America
+1822,2211,499,China,Upper middle income,Asia
+1823,2212,2786,United States,High income,North America
+1824,2213,809,United States,High income,North America
+1825,2215,2245,United States,High income,North America
+1826,2216,3779,United States,High income,North America
+1827,2217,2454,United States,High income,North America
+1828,2219,980,United States,High income,North America
+1829,2220,6600,United States,High income,North America
+1830,2221,717,United States,High income,North America
+1831,2223,1075,Italy,High income,Europe
+1832,2224,1764,Italy,High income,Europe
+1833,2225,3332,Italy,High income,Europe
+1834,2227,5780,Italy,High income,Europe
+1835,2228,2995,Italy,High income,Europe
+1836,2229,521,United States,High income,North America
+1837,2231,1473,United States,High income,North America
+1838,2234,2012,United States,High income,North America
+1839,2235,880,United States,High income,North America
+1840,2236,776,United States,High income,North America
+1841,2237,2546,United States,High income,North America
+1842,2238,1406,Myanmar,Lower middle income,Asia
+1843,2239,1809,Myanmar,Lower middle income,Asia
+1844,2240,653,United States,High income,North America
+1845,2241,835,United States,High income,North America
+1846,2242,1102,Myanmar,Lower middle income,Asia
+1847,2243,1193,Myanmar,Lower middle income,Asia
+1848,2244,1503,United States,High income,North America
+1849,2245,7679,United States,High income,North America
+1850,2246,1709,United States,High income,North America
+1851,2247,3232,United States,High income,North America
+1852,2248,3192,United States,High income,North America
+1853,2249,4794,United States,High income,North America
+1854,2250,6012,Georgia,Upper middle income,Asia
+1855,2251,2422,Georgia,Upper middle income,Asia
+1856,2252,834,Egypt,Lower middle income,Africa
+1857,2253,4078,Egypt,Lower middle income,Africa
+1858,2254,658,United States,High income,North America
+1859,2256,1315,United States,High income,North America
+1860,2257,3813,United States,High income,North America
+1861,2258,199,Georgia,Upper middle income,Asia
+1862,2259,1580,Georgia,Upper middle income,Asia
+1863,2260,1399,United States,High income,North America
+1864,2261,449,United States,High income,North America
+1865,2262,14407,United States,High income,North America
+1866,2268,1231,United States,High income,North America
+1867,2269,1335,United States,High income,North America
+1868,2271,4377,United States,High income,North America
+1869,2272,2911,United States,High income,North America
+1870,2273,3305,United States,High income,North America
+1871,2274,789,United States,High income,North America
+1872,2275,1851,United States,High income,North America
+1873,2276,3127,United States,High income,North America
+1874,2278,823,United States,High income,North America
+1875,2279,784,Guatemala,Upper middle income,North America
+1876,2281,758,United States,High income,North America
+1877,2282,13017,United States,High income,North America
+1878,2283,1685,United States,High income,North America
+1879,2284,419,United States,High income,North America
+1880,2285,500,United States,High income,North America
+1881,2286,712,United States,High income,North America
+1882,2287,4804,United States,High income,North America
+1883,2288,2863,United States,High income,North America
+1884,2289,829,United States,High income,North America
+1885,2290,874,United States,High income,North America
+1886,2291,2269,United States,High income,North America
+1887,2292,1955,United States,High income,North America
+1888,2293,659,Bangladesh,Lower middle income,Asia
+1889,2295,610,Bangladesh,Lower middle income,Asia
+1890,2296,2531,United States,High income,North America
+1891,2298,1065,United States,High income,North America
+1892,2299,845,United States,High income,North America
+1893,2300,732,United States,High income,North America
+1894,2301,1013,United States,High income,North America
+1895,2302,1219,United States,High income,North America
+1896,2303,1584,United States,High income,North America
+1897,2304,680,Pakistan,Lower middle income,Asia
+1898,2305,1031,Japan,High income,Asia
+1899,2306,1081,Japan,High income,Asia
+1900,2307,1443,Turkey,Upper middle income,Asia
+1901,2308,2479,Japan,High income,Asia
+1902,2309,4327,Iceland,High income,Europe
+1903,2311,1064,United Kingdom,High income,Europe
+1904,2312,802,United Kingdom,High income,Europe
+1905,2313,1059,United Kingdom,High income,Europe
+1906,2314,580,United States,High income,North America
+1907,2315,1788,United States,High income,North America
+1908,2316,854,United States,High income,North America
+1909,2317,2852,United States,High income,North America
+1910,2321,478,United States,High income,North America
+1911,2323,1109,Canada,High income,North America
+1912,2324,629,Canada,High income,North America
+1913,2325,1036,Canada,High income,North America
+1914,2326,967,Canada,High income,North America
+1915,2328,1372,Tanzania,Lower middle income,Africa
+1916,2329,752,United States,High income,North America
+1917,2330,934,United States,High income,North America
+1918,2331,207,United States,High income,North America
+1919,2332,628,United States,High income,North America
+1920,2333,1935,United States,High income,North America
+1921,2334,1351,United States,High income,North America
+1922,2335,1213,United States,High income,North America
+1923,2336,488,United States,High income,North America
+1924,2337,1164,United States,High income,North America
+1925,2338,2902,United States,High income,North America
+1926,2339,1532,United Kingdom,High income,Europe
+1927,2340,2822,United States,High income,North America
+1928,2341,1424,United States,High income,North America
+1929,2342,991,United States,High income,North America
+1930,2343,2638,United States,High income,North America
+1931,2344,2793,United Kingdom,High income,Europe
+1932,2345,4345,United Kingdom,High income,Europe
+1933,2346,525,United States,High income,North America
+1934,2347,336,Vatican City,,North America
+1935,2348,1483,Vatican City,,North America
+1936,2349,4849,United States,High income,North America
+1937,2350,594,United States,High income,North America
+1938,2351,707,United States,High income,North America
+1939,2352,448,Thailand,Upper middle income,Asia
+1940,2353,1403,Myanmar,Lower middle income,Asia
+1941,2354,4630,Myanmar,Lower middle income,Asia
+1942,2355,1780,Myanmar,Lower middle income,Asia
+1943,2356,5550,Myanmar,Lower middle income,Asia
+1944,2357,3467,Myanmar,Lower middle income,Asia
+1945,2358,2756,Myanmar,Lower middle income,Asia
+1946,2359,1417,Myanmar,Lower middle income,Asia
+1947,2360,1168,Myanmar,Lower middle income,Asia
+1948,2361,2022,Myanmar,Lower middle income,Asia
+1949,2362,1549,Ireland,High income,Europe
+1950,2363,1729,United States,High income,North America
+1951,2364,2270,United Kingdom,High income,Europe
+1952,2365,1165,United Kingdom,High income,Europe
+1953,2366,692,United Kingdom,High income,Europe
+1954,2369,2806,United States,High income,North America
+1955,2370,3934,United States,High income,North America
+1956,2371,2796,Russia,Upper middle income,Europe
+1957,2373,611,Iraq,Upper middle income,Asia
+1958,2374,2691,Iraq,Upper middle income,Asia
+1959,2375,1839,Iraq,Upper middle income,Asia
+1960,2376,1177,Iraq,Upper middle income,Asia
+1961,2377,1051,United Kingdom,High income,Europe
+1962,2379,607,China,Upper middle income,Asia
+1963,2380,83,United States,High income,North America
+1964,2381,2731,United States,High income,North America
+1965,2382,67,United States,High income,North America
+1966,2383,5719,United States,High income,North America
+1967,2384,1080,United States,High income,North America
+1968,2387,1612,United States,High income,North America
+1969,2389,4910,United States,High income,North America
+1970,2390,862,China,Upper middle income,Asia
+1971,2391,1048,China,Upper middle income,Asia
+1972,2392,1289,United States,High income,North America
+1973,2393,3866,United States,High income,North America
+1974,2394,2852,United States,High income,North America
+1975,2397,2259,United States,High income,North America
+1976,2399,2871,United States,High income,North America
+1977,2400,2243,United States,High income,North America
+1978,2401,1107,United States,High income,North America
+1979,2402,1167,United States,High income,North America
+1980,2403,3005,United States,High income,North America
+1981,2404,1832,United Kingdom,High income,Europe
+1982,2405,536,United States,High income,North America
+1983,2406,1999,United States,High income,North America
+1984,2407,6164,China,Upper middle income,Asia
+1985,2408,856,United States,High income,North America
+1986,2409,908,United States,High income,North America
+1987,2411,578,United States,High income,North America
+1988,2412,1730,United States,High income,North America
+1989,2413,5983,United States,High income,North America
+1990,2414,672,United States,High income,North America
+1991,2418,529,France,High income,Europe
+1992,2419,360,Equatorial Guinea,Upper middle income,Africa
+1993,2420,1272,United States,High income,North America
+1994,2421,6009,Switzerland,High income,Europe
+1995,2423,2190,United States,High income,North America
+1996,2424,591,United States,High income,North America
+1997,2426,2339,United States,High income,North America
+1998,2427,909,United States,High income,North America
+1999,2428,3995,United States,High income,North America
+2000,2429,613,Somalia,Low income,Africa
+2001,2430,872,Somalia,Low income,Africa
+2002,2431,1676,United States,High income,North America
+2003,2433,534,United States,High income,North America
+2004,2434,5427,United States,High income,North America
+2005,2435,2710,United States,High income,North America
+2006,2436,4152,United States,High income,North America
+2007,2437,1259,United States,High income,North America
+2008,2438,479,United States,High income,North America
+2009,2439,1133,United States,High income,North America
+2010,2441,1065,United Kingdom,High income,Europe
+2011,2442,636,United States,High income,North America
+2012,2443,5045,United States,High income,North America
+2013,2444,986,New Zealand,High income,Oceania
+2014,2445,4254,United States,High income,North America
+2015,2446,1376,United States,High income,North America
+2016,2447,7855,United States,High income,North America
+2017,2448,3623,New Zealand,High income,Oceania
+2018,2449,1382,United States,High income,North America
+2019,2451,990,United States,High income,North America
+2020,2452,304,China,Upper middle income,Asia
+2021,2453,523,China,Upper middle income,Asia
+2022,2454,1505,China,Upper middle income,Asia
+2023,2455,2094,China,Upper middle income,Asia
+2024,2457,952,Myanmar,Lower middle income,Asia
+2025,2458,3683,United States,High income,North America
+2026,2459,628,United States,High income,North America
+2027,2460,815,United States,High income,North America
+2028,2461,1363,United States,High income,North America
+2029,2462,1647,United States,High income,North America
+2030,2463,31623,United States,High income,North America
+2031,2466,2806,Iraq,Upper middle income,Asia
+2032,2467,634,Iraq,Upper middle income,Asia
+2033,2468,1844,Iraq,Upper middle income,Asia
+2034,2469,935,Iraq,Upper middle income,Asia
+2035,2472,7073,United States,High income,North America
+2036,2473,6346,United States,High income,North America
+2037,2474,162,United States,High income,North America
+2038,2475,5952,United States,High income,North America
+2039,2476,784,United States,High income,North America
+2040,2478,1441,United States,High income,North America
+2041,2479,2375,United States,High income,North America
+2042,2480,4441,United States,High income,North America
+2043,2481,3712,Nigeria,Lower middle income,Africa
+2044,2482,1982,Nigeria,Lower middle income,Africa
+2045,2483,1747,United States,High income,North America
+2046,2484,1594,United States,High income,North America
+2047,2485,889,United States,High income,North America
+2048,2486,12699,United States,High income,North America
+2049,2487,1940,United Kingdom,High income,Europe
+2050,2489,487,Georgia,Upper middle income,Asia
+2051,2491,1735,United States,High income,North America
+2052,2492,1885,United States,High income,North America
+2053,2493,1041,United States,High income,North America
+2054,2494,1592,Myanmar,Lower middle income,Asia
+2055,2495,2508,United States,High income,North America
+2056,2496,4266,United States,High income,North America
+2057,2497,681,United States,High income,North America
+2058,2498,725,United States,High income,North America
+2059,2499,1998,Nigeria,Lower middle income,Africa
+2060,2500,4136,Nigeria,Lower middle income,Africa
+2061,2502,1175,United States,High income,North America
+2062,2503,1257,United States,High income,North America
+2063,2504,2785,United States,High income,North America
+2064,2506,1253,United States,High income,North America
+2065,2507,789,United States,High income,North America
+2066,2509,2592,Syria,Low income,Asia
+2067,2511,2293,Syria,Low income,Asia
+2068,2512,404,India,Lower middle income,Asia
+2069,2513,4869,India,Lower middle income,Asia
+2070,2514,2601,United States,High income,North America
+2071,2517,9758,United States,High income,North America
+2072,2518,835,United States,High income,North America
+2073,2519,1304,Australia,High income,Oceania
+2074,2520,2129,United States,High income,North America
+2075,2521,1366,United States,High income,North America
+2076,2522,5167,United States,High income,North America
+2077,2523,830,United States,High income,North America
+2078,2525,572,United States,High income,North America
+2079,2527,560,United States,High income,North America
+2080,2529,1993,United States,High income,North America
+2081,2530,2022,United States,High income,North America
+2082,2531,452,United States,High income,North America
+2083,2532,796,France,High income,Europe
+2084,2533,1034,France,High income,Europe
+2085,2534,150,France,High income,Europe
+2086,2535,1960,United States,High income,North America
+2087,2536,2018,United States,High income,North America
+2088,2537,1583,United States,High income,North America
+2089,2541,435,Australia,High income,Oceania
+2090,2543,2084,United States,High income,North America
+2091,2544,1114,United States,High income,North America
+2092,2546,1330,United States,High income,North America
+2093,2547,1624,United States,High income,North America
+2094,2550,702,United Kingdom,High income,Europe
+2095,2551,1100,Iran,Lower middle income,Asia
+2096,2552,1121,Myanmar,Lower middle income,Asia
+2097,2553,1476,United States,High income,North America
+2098,2554,15574,United States,High income,North America
+2099,2555,1788,United States,High income,North America
+2100,2556,1458,United States,High income,North America
+2101,2557,2142,United States,High income,North America
+2102,2558,2090,United States,High income,North America
+2103,2559,1927,Myanmar,Lower middle income,Asia
+2104,2560,7514,United States,High income,North America
+2105,2561,3349,United States,High income,North America
+2106,2562,2298,Russia,Upper middle income,Europe
+2107,2563,950,United States,High income,North America
+2108,2564,636,United States,High income,North America
+2109,2565,3817,United States,High income,North America
+2110,2568,4718,United States,High income,North America
+2111,2569,1573,United States,High income,North America
+2112,2570,2310,United States,High income,North America
+2113,2572,2249,United States,High income,North America
+2114,2574,6090,Portugal,High income,Europe
+2115,2575,7590,Mexico,Upper middle income,North America
+2116,2576,724,United States,High income,North America
+2117,2577,980,United States,High income,North America
+2118,2578,2720,United States,High income,North America
+2119,2579,1262,United States,High income,North America
+2120,2580,988,United States,High income,North America
+2121,2581,2010,United States,High income,North America
+2122,2582,495,United States,High income,North America
+2123,2583,2453,United States,High income,North America
+2124,2585,766,South Africa,Aggregates,Africa
+2125,2586,815,United States,High income,North America
+2126,2587,1367,Australia,High income,Oceania
+2127,2588,938,Australia,High income,Oceania
+2128,2589,5490,Australia,High income,Oceania
+2129,2590,1749,United Kingdom,High income,Europe
+2130,2591,627,United States,High income,North America
+2131,2593,665,United States,High income,North America
+2132,2599,280,United States,High income,North America
+2133,2600,1328,Saudi Arabia,High income,Asia
+2134,2601,3150,United Kingdom,High income,Europe
+2135,2602,1870,United States,High income,North America
+2136,2604,993,United States,High income,North America
+2137,2605,793,Mexico,Upper middle income,North America
+2138,2606,2108,Mexico,Upper middle income,North America
+2139,2607,7035,Mexico,Upper middle income,North America
+2140,2608,596,United States,High income,North America
+2141,2609,808,United States,High income,North America
+2142,2610,864,United States,High income,North America
+2143,2611,1849,United States,High income,North America
+2144,2615,8026,Iraq,Upper middle income,Asia
+2145,2616,1152,United States,High income,North America
+2146,2617,2288,United States,High income,North America
+2147,2618,606,United States,High income,North America
+2148,2620,1165,United States,High income,North America
+2149,2621,1247,United States,High income,North America
+2150,2622,717,United States,High income,North America
+2151,2623,6397,United States,High income,North America
+2152,2624,744,United States,High income,North America
+2153,2625,4061,United States,High income,North America
+2154,2626,6785,United States,High income,North America
+2155,2629,4101,Iran,Lower middle income,Asia
+2156,2630,2083,United States,High income,North America
+2157,2632,6832,United States,High income,North America
+2158,2633,4087,Japan,High income,Asia
+2159,2634,727,United States,High income,North America
+2160,2636,540,United States,High income,North America
+2161,2639,748,United States,High income,North America
+2162,2640,8112,Japan,High income,Asia
+2163,2642,1430,Japan,High income,Asia
+2164,2644,639,Somalia,Low income,Africa
+2165,2645,2210,United States,High income,North America
+2166,2646,3558,United States,High income,North America
+2167,2647,8711,United States,High income,North America
+2168,2649,663,United States,High income,North America
+2169,2650,1146,United States,High income,North America
+2170,2651,1294,Japan,High income,Asia
+2171,2652,4049,United States,High income,North America
+2172,2655,460,Switzerland,High income,Europe
+2173,2657,4336,United States,High income,North America
+2174,2659,1015,China,Upper middle income,Asia
+2175,2660,4491,China,Upper middle income,Asia
+2176,2661,795,China,Upper middle income,Asia
+2177,2662,8760,China,Upper middle income,Asia
+2178,2663,1963,China,Upper middle income,Asia
+2179,2664,951,United States,High income,North America
+2180,2665,626,United States,High income,North America
+2181,2667,1746,China,Upper middle income,Asia
+2182,2668,938,United States,High income,North America
+2183,2669,1169,United States,High income,North America
+2184,2671,2692,United States,High income,North America
+2185,2672,3944,Saudi Arabia,High income,Asia
+2186,2676,1832,Georgia,Upper middle income,Asia
+2187,2677,6982,United States,High income,North America
+2188,2678,517,United States,High income,North America
+2189,2680,2393,Canada,High income,North America
+2190,2681,563,United States,High income,North America
+2191,2682,614,United States,High income,North America
+2192,2684,1688,United States,High income,North America
+2193,2685,1387,United States,High income,North America
+2194,2686,568,United States,High income,North America
+2195,2687,1960,United States,High income,North America
+2196,2689,872,United States,High income,North America
+2197,2690,1560,United States,High income,North America
+2198,2691,1108,United States,High income,North America
+2199,2692,855,United States,High income,North America
+2200,2693,9748,Georgia,Upper middle income,Asia
+2201,2694,1036,Georgia,Upper middle income,Asia
+2202,2695,1621,Georgia,Upper middle income,Asia
+2203,2696,970,Georgia,Upper middle income,Asia
+2204,2698,1223,United States,High income,North America
+2205,2699,842,United States,High income,North America
+2206,2701,1135,United States,High income,North America
+2207,2702,1417,United States,High income,North America
+2208,2703,1599,United States,High income,North America
+2209,2704,447,United States,High income,North America
+2210,2705,843,United States,High income,North America
+2211,2706,1743,United States,High income,North America
+2212,2707,716,United States,High income,North America
+2213,2708,1422,United States,High income,North America
+2214,2709,5096,United States,High income,North America
+2215,2710,2012,United States,High income,North America
+2216,2711,1108,United States,High income,North America
+2217,2712,10313,United States,High income,North America
+2218,2714,3047,United States,High income,North America
+2219,2716,759,United States,High income,North America
+2220,2717,2500,United States,High income,North America
+2221,2718,3474,United States,High income,North America
+2222,2719,1386,United States,High income,North America
+2223,2720,777,United States,High income,North America
+2224,2721,625,Georgia,Upper middle income,Asia
+2225,2722,825,United States,High income,North America
+2226,2723,556,United States,High income,North America
+2227,2726,1703,United States,High income,North America
+2228,2727,13355,United States,High income,North America
+2229,2729,973,Myanmar,Lower middle income,Asia
+2230,2730,1117,United States,High income,North America
+2231,2731,405,United States,High income,North America
+2232,2732,2111,United States,High income,North America
+2233,2734,2736,Netherlands,High income,Europe
+2234,2735,3277,United States,High income,North America
+2235,2736,8508,United States,High income,North America
+2236,2739,1569,United States,High income,North America
+2237,2740,2852,United States,High income,North America
+2238,2742,4047,Myanmar,Lower middle income,Asia
+2239,2743,6077,Myanmar,Lower middle income,Asia
+2240,2744,2820,Myanmar,Lower middle income,Asia
+2241,2745,6344,Myanmar,Lower middle income,Asia
+2242,2746,1195,Myanmar,Lower middle income,Asia
+2243,2747,1491,Myanmar,Lower middle income,Asia
+2244,2748,582,Myanmar,Lower middle income,Asia
+2245,2749,1622,Myanmar,Lower middle income,Asia
+2246,2750,6474,Myanmar,Lower middle income,Asia
+2247,2751,4234,United States,High income,North America
+2248,2752,8722,United States,High income,North America
+2249,2753,2910,United States,High income,North America
+2250,2754,4697,United States,High income,North America
+2251,2755,2049,United States,High income,North America
+2252,2756,1447,United States,High income,North America
+2253,2757,1036,United States,High income,North America
+2254,2758,3181,United States,High income,North America
+2255,2759,1340,United States,High income,North America
+2256,2760,3122,United States,High income,North America
+2257,2761,2313,United States,High income,North America
+2258,2762,3601,United States,High income,North America
+2259,2763,1193,United States,High income,North America
+2260,2764,3763,United States,High income,North America
+2261,2765,5234,United States,High income,North America
+2262,2766,916,United States,High income,North America
+2263,2768,393,United States,High income,North America
+2264,2770,1217,Russia,Upper middle income,Europe
+2265,2771,923,Japan,High income,Asia
+2266,2772,12430,Japan,High income,Asia
+2267,2773,4209,Japan,High income,Asia
+2268,2775,1169,United States,High income,North America
+2269,2776,5587,United States,High income,North America
+2270,2777,1884,Myanmar,Lower middle income,Asia
+2271,2779,1152,United States,High income,North America
+2272,2780,786,United States,High income,North America
+2273,2781,1035,United States,High income,North America
+2274,2782,1010,India,Lower middle income,Asia
+2275,2783,2351,Myanmar,Lower middle income,Asia
+2276,2784,689,United States,High income,North America
+2277,2785,1021,United States,High income,North America
+2278,2786,2866,Myanmar,Lower middle income,Asia
+2279,2787,507,Somalia,Low income,Africa
+2280,2788,745,United States,High income,North America
+2281,2789,1311,Russia,Upper middle income,Europe
+2282,2790,981,United States,High income,North America
+2283,2791,641,Somalia,Low income,Africa
+2284,2792,2668,Somalia,Low income,Africa
+2285,2793,1926,Russia,Upper middle income,Europe
+2286,2794,15283,Russia,Upper middle income,Europe
+2287,2795,10879,Russia,Upper middle income,Europe
+2288,2796,870,Russia,Upper middle income,Europe
+2289,2797,2753,United States,High income,North America
+2290,2798,1500,United States,High income,North America
+2291,2799,794,United Kingdom,High income,Europe
+2292,2800,1240,United Kingdom,High income,Europe
+2293,2801,4832,United States,High income,North America
+2294,2802,2341,United States,High income,North America
+2295,2803,750,United States,High income,North America
+2296,2804,19898,United States,High income,North America
+2297,2806,977,Netherlands,High income,Europe
+2298,2807,1000,Russia,Upper middle income,Europe
+2299,2808,2413,Russia,Upper middle income,Europe
+2300,2809,411,Russia,Upper middle income,Europe
+2301,2810,486,India,Lower middle income,Asia
+2302,2811,2010,India,Lower middle income,Asia
+2303,2812,1467,India,Lower middle income,Asia
+2304,2813,4520,India,Lower middle income,Asia
+2305,2814,4401,India,Lower middle income,Asia
+2306,2816,3234,United States,High income,North America
+2307,2817,982,Georgia,Upper middle income,Asia
+2308,2818,1339,Georgia,Upper middle income,Asia
+2309,2820,1772,United States,High income,North America
+2310,2822,7669,United States,High income,North America
+2311,2823,899,United States,High income,North America
+2312,2824,664,United States,High income,North America
+2313,2825,921,Pakistan,Lower middle income,Asia
+2314,2826,4564,Pakistan,Lower middle income,Asia
+2315,2827,2869,Pakistan,Lower middle income,Asia
+2316,2828,3399,Pakistan,Lower middle income,Asia
+2317,2829,1290,Pakistan,Lower middle income,Asia
+2318,2830,2107,Pakistan,Lower middle income,Asia
+2319,2831,1262,United States,High income,North America
+2320,2832,1034,United States,High income,North America
+2321,2833,15802,Netherlands,High income,Europe
+2322,2834,1495,China,Upper middle income,Asia
+2323,2835,1839,China,Upper middle income,Asia
+2324,2836,1287,China,Upper middle income,Asia
+2325,2837,626,United States,High income,North America
+2326,2838,1254,United States,High income,North America
+2327,2839,2723,United States,High income,North America
+2328,2840,14873,United States,High income,North America
+2329,2841,906,United States,High income,North America
+2330,2842,865,United States,High income,North America
+2331,2843,1901,United States,High income,North America
+2332,2844,1969,United States,High income,North America
+2333,2845,2152,United States,High income,North America
+2334,2846,2614,United States,High income,North America
+2335,2847,1164,United States,High income,North America
+2336,2848,3841,United States,High income,North America
+2337,2849,640,United States,High income,North America
+2338,2851,655,United States,High income,North America
+2339,2852,782,United States,High income,North America
+2340,2854,2054,United States,High income,North America
+2341,2856,621,United States,High income,North America
+2342,2857,2798,United States,High income,North America
+2343,2858,5544,United States,High income,North America
+2344,2860,244,United States,High income,North America
+2345,2861,710,United States,High income,North America
+2346,2862,1193,United States,High income,North America
+2347,2864,37233,United States,High income,North America
+2348,2865,1887,United States,High income,North America
+2349,2866,1337,United States,High income,North America
+2350,2867,3420,United States,High income,North America
+2351,2868,724,United States,High income,North America
+2352,2869,1043,United States,High income,North America
+2353,2870,5876,United States,High income,North America
+2354,2871,1955,United States,High income,North America
+2355,2872,8896,United States,High income,North America
+2356,2873,1971,United States,High income,North America
+2357,2874,718,United States,High income,North America
+2358,2875,7521,United States,High income,North America
+2359,2876,1596,United States,High income,North America
+2360,2877,6424,United States,High income,North America
+2361,2878,1279,Mexico,Upper middle income,North America
+2362,2879,7986,Mexico,Upper middle income,North America
+2363,2881,1966,United States,High income,North America
+2364,2884,1734,United Kingdom,High income,Europe
+2365,2885,1223,United States,High income,North America
+2366,2886,7160,United States,High income,North America
+2367,2887,15688,United States,High income,North America
+2368,2888,4160,Russia,Upper middle income,Europe
+2369,2889,2366,United States,High income,North America
+2370,2890,905,United States,High income,North America
+2371,2891,1040,Yemen,Low income,Asia
+2372,2892,3343,Yemen,Low income,Asia
+2373,2893,764,United States,High income,North America
+2374,2894,1296,United States,High income,North America
+2375,2895,15689,United States,High income,North America
+2376,2896,3899,United States,High income,North America
+2377,2897,10856,United States,High income,North America
+2378,2898,5168,United States,High income,North America
+2379,2899,730,United States,High income,North America
+2380,2900,701,United States,High income,North America
+2381,2901,943,United States,High income,North America
+2382,2902,4185,United States,High income,North America
+2383,2907,2286,United Kingdom,High income,Europe
+2384,2908,1170,Vatican City,,Europe
+2385,2909,3426,United States,High income,North America
+2386,2913,2278,United States,High income,North America
+2387,2915,1178,United States,High income,North America
+2388,2917,4696,United States,High income,North America
+2389,2918,795,Iraq,Upper middle income,Asia
+2390,2919,3639,Iraq,Upper middle income,Asia
+2391,2921,14739,United States,High income,North America
+2392,2922,3864,United States,High income,North America
+2393,2928,23678,Netherlands,High income,Europe
+2394,2929,42952,United States,High income,North America
+2395,2931,1390,Spain,High income,Europe
+2396,2932,3721,United States,High income,North America
+2397,2934,7868,Mexico,Upper middle income,North America
+2398,2938,1463,United States,High income,North America
+2399,2942,2202,Iran,Lower middle income,Asia
+2400,2944,662,Iran,Lower middle income,Asia
+2401,2945,4603,Iran,Lower middle income,Asia
+2402,2946,1347,United States,High income,North America
+2403,2948,4182,United States,High income,North America
+2404,2949,1037,United States,High income,North America
+2405,2950,13869,United States,High income,North America
+2406,2952,2911,United States,High income,North America
+2407,2954,10229,United States,High income,North America
+2408,2955,3199,United States,High income,North America
+2409,2956,2516,Brazil,Upper middle income,South America
+2410,2957,2085,United States,High income,North America
+2411,2958,5579,United States,High income,North America
+2412,2960,3146,United States,High income,North America
+2413,2961,2479,United States,High income,North America
+2414,2962,1206,United States,High income,North America
+2415,2963,6236,United States,High income,North America
+2416,2964,935,Russia,Upper middle income,Europe
+2417,2965,1302,Russia,Upper middle income,Europe
+2418,2966,1790,China,Upper middle income,Asia
+2419,2967,10791,China,Upper middle income,Asia
+2420,2968,10901,China,Upper middle income,Asia
+2421,2969,6501,United States,High income,North America
+2422,2970,9944,United States,High income,North America
+2423,2971,12817,United States,High income,North America
+2424,2972,1280,United States,High income,North America
+2425,2973,1664,United States,High income,North America
+2426,2974,1211,United States,High income,North America
+2427,2975,2411,Russia,Upper middle income,Europe
+2428,2976,1959,Russia,Upper middle income,Europe
+2429,2977,3906,Russia,Upper middle income,Europe
+2430,2981,4090,Russia,Upper middle income,Europe
+2431,2982,3369,Russia,Upper middle income,Europe
+2432,2983,25345,Russia,Upper middle income,Europe
+2433,2984,734,United States,High income,North America
+2434,2985,1687,United States,High income,North America
+2435,2986,4730,United States,High income,North America
+2436,2987,1649,United States,High income,North America
+2437,2989,5783,United States,High income,North America
+2438,2990,1659,United States,High income,North America
+2439,2991,6967,United States,High income,North America
+2440,2992,1482,United States,High income,North America
+2441,2993,7703,United States,High income,North America
+2442,2994,2063,Uganda,Low income,Africa
+2443,2995,3351,Uganda,Low income,Africa
+2444,2996,675,Uganda,Low income,Africa
+2445,2997,5975,United States,High income,North America
+2446,2998,854,Congo,Low income,Africa
+2447,2999,2392,United Kingdom,High income,Europe
+2448,3000,2983,United Kingdom,High income,Europe
+2449,3001,2083,United Kingdom,High income,Europe
+2450,3003,907,Indonesia,Lower middle income,Asia
+2451,3004,6939,United States,High income,North America
+2452,3005,1151,United States,High income,North America
+2453,3006,744,United States,High income,North America
+2454,3007,3175,United States,High income,North America
+2455,3008,2638,United States,High income,North America
+2456,3009,35108,United States,High income,North America
+2457,3010,4494,United States,High income,North America
+2458,3011,51209,United States,High income,North America
+2459,3013,8827,United States,High income,North America
+2460,3014,2340,United States,High income,North America
+2461,3015,2160,United States,High income,North America
+2462,3016,2794,United States,High income,North America
+2463,3017,1113,China,Upper middle income,Asia
+2464,3019,4476,United States,High income,North America
+2465,3021,1481,United States,High income,North America
+2466,3023,9774,United States,High income,North America
+2467,3024,1546,United States,High income,North America
+2468,3026,6570,China,Upper middle income,Asia
+2469,3027,1706,United States,High income,North America
+2470,3029,24087,United States,High income,North America
+2471,3034,7127,United States,High income,North America
+2472,3035,18253,United States,High income,North America
+2473,3036,10597,United States,High income,North America
+2474,3040,2556,United States,High income,North America
+2475,3041,2484,United States,High income,North America
+2476,3043,1509,China,Upper middle income,Asia
+2477,3044,773,China,Upper middle income,Asia
+2478,3045,1172,China,Upper middle income,Asia
+2479,3047,4074,China,Upper middle income,Asia
+2480,3048,7443,United States,High income,North America
+2481,3051,1625,United States,High income,North America
+2482,3052,13535,United States,High income,North America
+2483,3054,3485,United States,High income,North America
+2484,3055,4172,United States,High income,North America
+2485,3056,1760,United States,High income,North America
+2486,3057,1283,United States,High income,North America
+2487,3058,2279,United States,High income,North America
+2488,3059,837,United States,High income,North America
+2489,3061,17203,United States,High income,North America
+2490,3062,4460,United States,High income,North America
+2491,3066,2408,United States,High income,North America
+2492,3067,3415,United States,High income,North America
+2493,3068,4898,United States,High income,North America
+2494,3071,955,United States,High income,North America
+2495,3072,2055,United States,High income,North America
+2496,3074,9260,United States,High income,North America
+2497,3075,782,United States,High income,North America
+2498,3076,6914,United States,High income,North America
+2499,3077,2846,Japan,High income,Asia
+2500,3078,15699,United States,High income,North America
+2501,3079,13733,United States,High income,North America
+2502,3080,13075,United States,High income,North America
+2503,3081,1716,United States,High income,North America
+2504,3082,4240,United States,High income,North America
+2505,3084,1199,United States,High income,North America
+2506,3086,11455,United States,High income,North America
+2507,3087,3388,United States,High income,North America
+2508,3088,19258,United States,High income,North America
+2509,3089,2902,United States,High income,North America
+2510,3090,8696,United States,High income,North America
+2511,3092,239572,United States,High income,North America
+2512,3094,4958,Indonesia,Lower middle income,Asia
+2513,3096,12527,Indonesia,Lower middle income,Asia
+2514,3098,12386,Indonesia,Lower middle income,Asia
+2515,3100,9527,United States,High income,North America
+2516,3102,56893,United States,High income,North America
+2517,3103,1723,United States,High income,North America
+2518,3104,4449,United States,High income,North America
+2519,3105,2219,United States,High income,North America
+2520,3106,6676,United States,High income,North America
+2521,3107,998,United States,High income,North America
+2522,3108,4704,United States,High income,North America
+2523,3110,2382,United Kingdom,High income,Europe
+2524,3111,2771,United Kingdom,High income,Europe
+2525,3112,7433,Georgia,Upper middle income,Asia
+2526,3113,4725,United States,High income,North America
+2527,3114,23800,United States,High income,North America
+2528,3115,766,United States,High income,North America
+2529,3116,6131,United States,High income,North America
+2530,3117,6668,United States,High income,North America
+2531,3120,5473,United States,High income,North America
+2532,3122,3016,United States,High income,North America
+2533,3123,4451,United States,High income,North America
+2534,3124,5412,United States,High income,North America
+2535,3126,2807,United States,High income,North America
+2536,3127,9995,United States,High income,North America
+2537,3129,3954,United States,High income,North America
+2538,3130,7125,United States,High income,North America
+2539,3131,52340,United States,High income,North America
+2540,3132,9713,Georgia,Upper middle income,Asia
+2541,3133,7735,United States,High income,North America
+2542,3136,9183,United States,High income,North America
+2543,3138,8356,United States,High income,North America
+2544,3140,6898,United States,High income,North America
+2545,3141,6628,United States,High income,North America
+2546,3144,368,United States,High income,North America
+2547,3145,17903,Georgia,Upper middle income,Asia
+2548,3146,5183,United States,High income,North America
+2549,3148,9420,United States,High income,North America
+2550,3150,2871,United States,High income,North America
+2551,3151,4803,United States,High income,North America
+2552,3152,473,United States,High income,North America
+2553,3156,18520,Georgia,Upper middle income,Asia
+2554,3157,4445,China,Upper middle income,Asia
+2555,3158,5516,China,Upper middle income,Asia
+2556,3159,1097,China,Upper middle income,Asia
+2557,3160,427,United States,High income,North America
+2558,3161,1442,United States,High income,North America
+2559,3162,2549,United States,High income,North America
+2560,3163,1637,United States,High income,North America
+2561,3165,3336,Russia,Upper middle income,Europe
+2562,3167,5677,Georgia,Upper middle income,Asia
+2563,3169,633,China,Upper middle income,Asia
+2564,3170,14290,United States,High income,North America
+2565,3171,3428,United States,High income,North America
+2566,3173,3015,Georgia,Upper middle income,Asia
+2567,3174,41367,Georgia,Upper middle income,Asia
+2568,3175,2375,United States,High income,North America
+2569,3176,3407,United Kingdom,High income,Europe
+2570,3177,688,United Kingdom,High income,Europe
+2571,3178,9822,United States,High income,North America
+2572,3179,1071,United States,High income,North America
+2573,3180,652,United States,High income,North America
+2574,3181,1812,United States,High income,North America
+2575,3182,4462,United States,High income,North America
+2576,3184,1237,Iran,Lower middle income,Asia
+2577,3185,1396,United States,High income,North America
+2578,3186,1072,United States,High income,North America
+2579,3187,9377,United States,High income,North America
+2580,3188,1200,United States,High income,North America
+2581,3189,2794,United States,High income,North America
+2582,3192,598,United States,High income,North America
+2583,3193,4904,United States,High income,North America
+2584,3195,824,United States,High income,North America
+2585,3196,1223,United Kingdom,High income,Europe
+2586,3197,887,United Kingdom,High income,Europe
+2587,3198,864,United States,High income,North America
+2588,3199,724,United States,High income,North America
